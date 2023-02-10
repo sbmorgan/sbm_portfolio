@@ -1,0 +1,289 @@
+---
+title: "Seth B Morgan's resume"
+author: Seth B. Morgan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![seth brosey morgan](sbm_mpr.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> seth.b.morgan@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/sethbmorgan](https://www.linkedin.com/in/sethbmorgan/)
+- <i class="fa fa-github"></i> [github.com/sbmorgan](https://github.com/sbmorgan)
+- <i class="fa fa-database"></i> [datacamp.com/sethbmorgan](https://www.datacamp.com/profile/sethbmorgan/)
+- <i class="fa fa-phone"></i> +1 415-948-8277
+- For more information, please contact me via phone or email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical data analysis and quantitative research methods
+
+- Statistical analysis: Stata; R
+
+- Other software/platforms: Git; GitHub; Sourcetree; UltraCompare; Stat/Transfer; MS Office Suite
+
+- Language: Spanish (proficient)
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+seth brosey morgan {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a senior data analyst position
+
+**Data analyst and statistical programmer with over 10 years' experience** evaluating international development programs and US public policy in the agriculture and education sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm founded by my family in 1842.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of San Francisco
+
+M.A. in International & Development Economics
+
+San Francisco, CA
+
+2008
+
+Thesis: “Do Cooperatives Benefit Small Guatemalan Coffee Farmers? 
+         The Competitive Role of Guatemalan Coffee Cooperatives on Farm-Gate Coffee Prices”
+
+### The Ohio State University
+
+B.S. in Agriculture-
+Major: Agribusiness & Applied Economics;
+Minors: Horticulture, Spanish
+
+Columbus, OH
+
+2001
+
+Honors Senior Paper: "The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future"
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Director, Data Management and Analysis
+
+Health Policy Institute of Ohio
+
+Columbus, Ohio
+
+June 2022 - Present
+
+- Research and conduct analysis on issues in health policy, including mental health, substance use, suicide deaths, and upstream drivers of health 
+- Develop systems for collecting, compiling, managing and analyzing data, including project management for data compiled for the [Health Value Dashboard](https://www.healthpolicyohio.org/2021-health-value-dashboard/) 
+- Lead research and co-author written products, including policy briefs, fact sheets, resource pages, online tools and other research reports
+- Develop and propose policy alternatives that will address the underlying causes of poor health and improve the health of Ohioans
+
+
+### Injury and Mental Health Surveillance Epidemiologist
+
+Washington State Department of Health, 
+Office of Public Health Outbreak Coordination, Informatics, and Surveillance
+
+Remote Position
+
+March 2021 - June 2022
+
+- Serving as the injury epidemiology subject matter expert for the Rapid Health Information Network (RHINO) program on self-directed violence and suicide-related outcomes, firearm injuries, overdoses, and traffic-related injuries
+- Evaluating data for public health surveillance (syndromic, survey, and other administrative data) and determining which specific public health issues require further epidemiologic studies, investigations, education, and other public health interventions for preventing injuries
+- Tracking patient symptoms in emergency settings within electronic health record data
+- Designing, developing, and producing datasets, reports, and data visualizations for a wide audience
+
+### Research Manager and Behavioral Health Surveillance Advisor (COVID-19 Response)
+
+Washington State Department of Social and Health Services, Research and Data Analysis Division
+
+Olympia, WA
+
+April 2019 - March 2021
+
+- Identified, analyzed, and interpreted health surveillance (mental health, substance use, suicide-related outcomes) and other epidemiological data to assess the pandemic's impact on the capacity of the state’s health care system to respond to behavioral health service needs
+- Managed program evaluations related to behavioral health and child mental health services
+- Implemented data governance strategies for sharing and use of integrated state and local administrative data
+- Coordinated research and program evaluation activities with the institutional review board
+- With program partners, supported centralization and management of data repositories and related processes
+
+
+### Mental Health and Substance Use Epidemiologist
+
+Washington State Department of Health, Office of the State Health Officer
+
+Tumwater, WA 
+
+May 2018 - April 2019
+
+- As principal investigator, provided epidemiological leadership and review to the Washington State Healthy Youth Survey 
+- Oversaw development of (1) research review proposal and study amendments to Washington State Institutional Review Board (2) data sharing agreements that protect privacy
+- Led cross-agency behavioral health planning, including development of an environmental scan of surveillance work planned and in progress related to substance use and mental health. Identified programs engaged in surveillance, data sources, survey questions, how data are used, information needs, and surveillance collaborations with other state agencies/partners
+
+
+### Health Researcher
+
+Mathematica, Health Unit
+
+Oakland, CA
+
+December 2014 - May 2019
+
+- Through a public health lens, developed psychometrically sound measures for: 1) unmet need for mental health services among Military Health System beneficiaries, 2) delivery of evidence-based psychotherapy for adults in treatment for posttraumatic stress disorder, and 3) patient-centered care among Latino client
+- Provided qualitative research support (literature reviews, environmental scans, focus groups) to multi-component projects for improving trauma-informed care in 1) child welfare and substance use treatment facilities and 2) in programs serving formerly incarcerated fathers. [Report](https://www.mathematica.org/publications/creating-a-trauma-informed-system-of-care-for-formerly-incarcerated-dads) 
+- Provided policy analysis for large cross-site impact evaluations in behavioral health for the Center for Medicare & Medicaid Innovation and for Substance Abuse & Mental Health Services Administration
+- Developed client and stakeholder relationships at federal, state, and local levels
+- Facilitated discussion in virtual and face-to-face environments
+- Wrote for impact, including issue briefs, peer-reviewed publications, and technical reports
+
+### Research Assistant Professor
+
+Uniformed Services University of the Health Sciences, Department of Psychiatry, Center for the Study of Traumatic Stress
+
+Bethesda, MD
+
+July 2013 - December 2014
+
+- Provided scientific and statistical support for Department of Defense-funded military population studies examining 1) the impact of deployment stress on interpersonal violence and mental health,  2) military base characteristics and health outcomes, and 3) variation in military dependent (spouses and children) health  care utilization in the National Military Family Bereavement Study
+- Responsible for mentoring and development of project staff, constructing and adapting instruments and measurement tools, database construction, data management, data analysis, report and manuscript writing, and overall project management
+- Implemented department-wide monthly seminars on topics related to military mental health research, including heterogeneity of effects identification, cluster analysis, and PTSD measurement
+
+
+Professional Organizations {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Council of State and Territorial Epidemiologists, member 
+
+Alcohol Subcommittee
+Disaster Epidemiology Subcommittee
+
+N/A
+
+2020 - present
+
+::: concise
+- Developed informational data products for screening for alcohol use in emergency settings
+- Presented behavioral health surveillance efforts at the 2021 Disaster Subcommittee Workshop
+:::
+
+### National Syndromic Surveillance Program, member
+
+Syndrome Definition Committee
+2021 Syndromic Surveillance Symposium Planning Committee
+
+N/A
+
+2020 - present
+
+::: concise
+- With partners, developed, validated and tested suite of [11 mental health syndrome definitions](https://cdn.ymaws.com/www.cste.org/resource/resmgr/nssp/May_2021_CoP_v2.pdf) 
+- Reviewed abstracts for the 2021 [Syndromic Surveillance Symposium](https://kr-drupal.syndromicsurveillance.org/2021-syndromic-surveillance-symposium)
+- Served on panel discussions for surveillance of mental health during the COVID-19 pandemic
+:::
+
+
+Selected Publications & Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Revising the Suspected Suicide Attempt Definition
+
+CDC Emergency Department Surveillance of Nonfatal Suicide-Related Outcomes (ED-SNSRO) Reverse Site Visit, September 2021 
+
+N/A
+
+2021
+
+### Disaster Mental Health Syndromic Surveillance
+
+2021 CSTE Disaster Epidemiology Workshop
+
+N/A
+
+2021 
+
+**La Flair, L.N.**, Carmichael, Cody Micah
+
+### Adverse childhood experiences (ACEs) and transitions in stages of alcohol involvement among US adults: Progression and regression
+
+*Child Abuse & Neglect.* 2020;107:104624 
+
+N/A
+
+2020
+
+Alvanzo, A.H.A , Storr, C.L., Riehm, K.E., Reboussin, B.A, Green, K.M., Mojtabai, R., **La Flair, L.N.**, Cullen, B., Susukida, R., Seamans, M., Crum, R.M. 
+
+### Associations between time spent using social media and internalizing and externalizing problems among US youth
+
+*JAMA Psychiatry.* 2019; 76(12):1266-1273.
+
+N/A
+
+2019 
+
+Riehm, K.E., Feder, K., Tormohlen, K.N., Crum, R.M., Young, A.S., Green, K.M., Pacek, L.R., 
+**La Flair, L.N.**, Mojtabai, R.  
+
+### The association of alcohol use disorders with suicidal ideation and attempts in a population-based sample
+
+*Archives of Suicide Research.*  2016;20(2):219-232.
+
+N/A
+
+2016
+
+### The association of co-morbid generalized anxiety disorder and alcohol use disorder symptoms with health-related quality of life: Results from the National Epidemiological Survey on Alcohol and Related Conditions
+
+*Journal of Addiction Medicine.* 2013;7(6):394-400. PMCID: 3839307
+
+N/A
+
+2013
+
+Cullen, B.A.,  **La Flair, L.N.**, Storr, C., Green K.M., Mojtabai, R., Pacek, L.R., Alvanzo, A.H.A., Crum, R.M. 
+
+### Childhood Abuse and Neglect and Transitions in Stages of Alcohol Involvement among Women: A Latent Transition Analysis Approach
+
+*Drug and Alcohol Dependence.* 2013;132(3):491-498. PMCID: 3770786
+
+N/A
+
+2013
+
+**La Flair, L.N.**, Reboussin, B., Storr, C., Letourneau, E., Green, K., Mojtabai, R., Pacek, L., Alvanzo, A., Cullen, B., Crum, R.M.  
+
+### Drinking to Self-Medicate Anxiety Symptoms:  Prospective Assessment for Subgroups of Individuals with Alcohol Dependence
+
+*Depression & Anxiety.* 2013;30(2):174-183. 
+
+N/A
+
+2013
+
+Crum, R.M., **La Flair, L.N.**, Storr, C.L., Green, K.M., Stuart, E.A., Alvanzo, A.H.A., Lazareck, R., Bolton, J.M., Robinson, J., Sareen, J., Mojtabai, R.  
+
+
