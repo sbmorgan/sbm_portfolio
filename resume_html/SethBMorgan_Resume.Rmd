@@ -132,6 +132,43 @@ N/A
 Issued Jun 2020
 
 
+Certifications {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### WWC Certified Reviewer, Group Design Standards (GDS), Version 5.0
+
+Institute of Education Sciences (IES)
+
+N/A
+
+Issued May 2023
+
+
+### WWC Certified Reviewer, Regression Discontinuity Design (RDD) Standards, Version 4.1
+
+Institute of Education Sciences (IES)
+
+N/A
+
+Issued May 2022
+
+### Certified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)
+
+The Department of Health and Human Services (HHS)
+
+N/A
+
+Issued Jan 2021
+
+### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 4.1
+
+Institute of Education Sciences (IES)
+
+N/A
+
+Issued Jun 2020
+
+
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
