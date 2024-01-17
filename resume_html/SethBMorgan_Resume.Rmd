@@ -31,21 +31,24 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Statistical data analysis and quantitative research methods
+- Statistical data analysis
+
+- Quantitative research methods
 
 - Evaluation research design
 
 - Technical writing
 
-- Statistical analysis: Stata; R
+- Programming languages: Stata; R
 
-- Other software/platforms: Git; GitHub (web/desktop); UltraCompare; Stat/Transfer; MS Office Suite
+- Other software/platforms: Git; GitHub; UltraCompare; Stat/Transfer; MS Office Suite
 
 - Language: Spanish (proficient)
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
+
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
@@ -58,6 +61,7 @@ Main
 
 seth brosey morgan {#title}
 --------------------------------------------------------------------------------
+
 
 ### SUMMARY
 
@@ -95,7 +99,7 @@ GPA: 3.86
 Honors Senior Paper: "The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future"
 
 
-Certifications {data-icon=check}
+Certifications {data-icon=award}
 --------------------------------------------------------------------------------
 
 ### WWC Certified Reviewer, Group Design Standards (GDS), Version 5.0
@@ -104,7 +108,7 @@ Institute of Education Sciences (IES)
 
 N/A
 
-Issued May 2023
+May 2023
 
 
 ### WWC Certified Reviewer, Regression Discontinuity Design (RDD) Standards, Version 4.1
@@ -113,7 +117,7 @@ Institute of Education Sciences (IES)
 
 N/A
 
-Issued May 2022
+May 2022
 
 ### Certified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)
 
@@ -121,7 +125,7 @@ The Department of Health and Human Services (HHS)
 
 N/A
 
-Issued Jan 2021
+Jan 2021
 
 ### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 4.1
 
@@ -129,45 +133,52 @@ Institute of Education Sciences (IES)
 
 N/A
 
-Issued Jun 2020
+Jun 2020
 
 
-Certifications {data-icon=trophy}
+Selected Honors & Activities {data-icon=trophy}
 --------------------------------------------------------------------------------
 
-### WWC Certified Reviewer, Group Design Standards (GDS), Version 5.0
+### Presented master’s thesis at Pacific Conference for Development Economics (PacDev)
 
-Institute of Education Sciences (IES)
-
-N/A
-
-Issued May 2023
-
-
-### WWC Certified Reviewer, Regression Discontinuity Design (RDD) Standards, Version 4.1
-
-Institute of Education Sciences (IES)
+N/A 
 
 N/A
 
-Issued May 2022
+2008
 
-### Certified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)
 
-The Department of Health and Human Services (HHS)
+### Graduate program overseas field study in Huehuetenango, Guatemala
 
-N/A
-
-Issued Jan 2021
-
-### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 4.1
-
-Institute of Education Sciences (IES)
+N/A 
 
 N/A
 
-Issued Jun 2020
+2007
 
+### Graduated with Distinction, Magna Cum Laude, The Ohio State University
+
+N/A 
+
+N/A
+
+2001
+
+### Undergraduate program study abroad in Guanajuato, Mexico
+
+N/A 
+
+N/A
+
+2001
+
+### University Honors Program, The Ohio State University
+
+N/A 
+
+N/A
+
+1997 - 2001
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
