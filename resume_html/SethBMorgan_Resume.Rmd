@@ -31,13 +31,17 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical data analysis and quantitative research methods
+-	Quantitative data analysis
 
-- Statistical analysis: Stata; R
+- Evaluation research design
 
-- Other software/platforms: Git; GitHub; Sourcetree; UltraCompare; Stat/Transfer; MS Office Suite
+- Technical writing Other software/platforms: Git; GitHub; Sourcetree; UltraCompare; Stat/Transfer; MS Office Suite
 
-- Language: Spanish (proficient)
+-	Programming languages: Stata; R
+
+- Other software: Git; GitHub (web/desktop); UltraCompare; Stat/Transfer; MS Office Suite 
+
+- Foreign language: Spanish (proficient)
 
 
 Disclaimer {#disclaimer}
@@ -57,7 +61,7 @@ seth brosey morgan {#title}
 
 ### Currently searching for a senior data analyst position
 
-**Data analyst and statistical programmer with over 10 years' experience** evaluating international development programs and US public policy in the agriculture and education sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm founded by my family in 1842.
+**Senior data analyst with nearly 15 years' experience researching and evaluating public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm founded by my family in 1842.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -71,6 +75,8 @@ San Francisco, CA
 
 2008
 
+GPA: 3.9
+
 Thesis: “Do Cooperatives Benefit Small Guatemalan Coffee Farmers? 
          The Competitive Role of Guatemalan Coffee Cooperatives on Farm-Gate Coffee Prices”
 
@@ -83,6 +89,8 @@ Minors: Horticulture, Spanish
 Columbus, OH
 
 2001
+
+GPA: 3.86
 
 Honors Senior Paper: "The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future"
 
