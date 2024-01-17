@@ -50,8 +50,6 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
 Last updated on `r Sys.Date()`.
 
 
@@ -183,13 +181,13 @@ N/A
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Director, Data Management and Analysis
+### Data Analytics and Evaluation Design Consultant
 
-Health Policy Institute of Ohio
+Freelance
 
-Columbus, Ohio
+Medway, Ohio
 
-June 2022 - Present
+Jun 2022 - Present
 
 - Research and conduct analysis on issues in health policy, including mental health, substance use, suicide deaths, and upstream drivers of health 
 - Develop systems for collecting, compiling, managing and analyzing data, including project management for data compiled for the [Health Value Dashboard](https://www.healthpolicyohio.org/2021-health-value-dashboard/) 
@@ -197,154 +195,49 @@ June 2022 - Present
 - Develop and propose policy alternatives that will address the underlying causes of poor health and improve the health of Ohioans
 
 
-### Injury and Mental Health Surveillance Epidemiologist
+### Mathematica: Sr. Data Analytics Developer (Mar 2019-Dec 2022, remote); Research Analyst (Jun 2012-Mar 2019, Oakland, CA & remote); Research Assistant / Programmer III (Jun 2011-Jun 2012, Oakland, CA)
 
-Washington State Department of Health, 
-Office of Public Health Outbreak Coordination, Informatics, and Surveillance
-
-Remote Position
-
-March 2021 - June 2022
-
-- Serving as the injury epidemiology subject matter expert for the Rapid Health Information Network (RHINO) program on self-directed violence and suicide-related outcomes, firearm injuries, overdoses, and traffic-related injuries
-- Evaluating data for public health surveillance (syndromic, survey, and other administrative data) and determining which specific public health issues require further epidemiologic studies, investigations, education, and other public health interventions for preventing injuries
-- Tracking patient symptoms in emergency settings within electronic health record data
-- Designing, developing, and producing datasets, reports, and data visualizations for a wide audience
-
-### Research Manager and Behavioral Health Surveillance Advisor (COVID-19 Response)
-
-Washington State Department of Social and Health Services, Research and Data Analysis Division
-
-Olympia, WA
-
-April 2019 - March 2021
-
-- Identified, analyzed, and interpreted health surveillance (mental health, substance use, suicide-related outcomes) and other epidemiological data to assess the pandemic's impact on the capacity of the state’s health care system to respond to behavioral health service needs
-- Managed program evaluations related to behavioral health and child mental health services
-- Implemented data governance strategies for sharing and use of integrated state and local administrative data
-- Coordinated research and program evaluation activities with the institutional review board
-- With program partners, supported centralization and management of data repositories and related processes
-
-
-### Mental Health and Substance Use Epidemiologist
-
-Washington State Department of Health, Office of the State Health Officer
-
-Tumwater, WA 
-
-May 2018 - April 2019
-
-- As principal investigator, provided epidemiological leadership and review to the Washington State Healthy Youth Survey 
-- Oversaw development of (1) research review proposal and study amendments to Washington State Institutional Review Board (2) data sharing agreements that protect privacy
-- Led cross-agency behavioral health planning, including development of an environmental scan of surveillance work planned and in progress related to substance use and mental health. Identified programs engaged in surveillance, data sources, survey questions, how data are used, information needs, and surveillance collaborations with other state agencies/partners
-
-
-### Health Researcher
-
-Mathematica, Health Unit
-
-Oakland, CA
-
-December 2014 - May 2019
-
-- Through a public health lens, developed psychometrically sound measures for: 1) unmet need for mental health services among Military Health System beneficiaries, 2) delivery of evidence-based psychotherapy for adults in treatment for posttraumatic stress disorder, and 3) patient-centered care among Latino client
-- Provided qualitative research support (literature reviews, environmental scans, focus groups) to multi-component projects for improving trauma-informed care in 1) child welfare and substance use treatment facilities and 2) in programs serving formerly incarcerated fathers. [Report](https://www.mathematica.org/publications/creating-a-trauma-informed-system-of-care-for-formerly-incarcerated-dads) 
-- Provided policy analysis for large cross-site impact evaluations in behavioral health for the Center for Medicare & Medicaid Innovation and for Substance Abuse & Mental Health Services Administration
-- Developed client and stakeholder relationships at federal, state, and local levels
-- Facilitated discussion in virtual and face-to-face environments
-- Wrote for impact, including issue briefs, peer-reviewed publications, and technical reports
-
-### Research Assistant Professor
-
-Uniformed Services University of the Health Sciences, Department of Psychiatry, Center for the Study of Traumatic Stress
-
-Bethesda, MD
-
-July 2013 - December 2014
-
-- Provided scientific and statistical support for Department of Defense-funded military population studies examining 1) the impact of deployment stress on interpersonal violence and mental health,  2) military base characteristics and health outcomes, and 3) variation in military dependent (spouses and children) health  care utilization in the National Military Family Bereavement Study
-- Responsible for mentoring and development of project staff, constructing and adapting instruments and measurement tools, database construction, data management, data analysis, report and manuscript writing, and overall project management
-- Implemented department-wide monthly seminars on topics related to military mental health research, including heterogeneity of effects identification, cluster analysis, and PTSD measurement
-
-
-Selected Publications & Reports {data-icon=file}
---------------------------------------------------------------------------------
-
-### Revising the Suspected Suicide Attempt Definition
-
-CDC Emergency Department Surveillance of Nonfatal Suicide-Related Outcomes (ED-SNSRO) Reverse Site Visit, September 2021 
+Jun 2011 - Dec 2022
 
 N/A
 
-2021
-
-### Disaster Mental Health Syndromic Surveillance
-
-2021 CSTE Disaster Epidemiology Workshop
-
-N/A
-
-2021 
-
-**La Flair, L.N.**, Carmichael, Cody Micah
-
-### Adverse childhood experiences (ACEs) and transitions in stages of alcohol involvement among US adults: Progression and regression
-
-*Child Abuse & Neglect.* 2020;107:104624 
-
-N/A
-
-2020
-
-Alvanzo, A.H.A , Storr, C.L., Riehm, K.E., Reboussin, B.A, Green, K.M., Mojtabai, R., **La Flair, L.N.**, Cullen, B., Susukida, R., Seamans, M., Crum, R.M. 
-
-### Associations between time spent using social media and internalizing and externalizing problems among US youth
-
-*JAMA Psychiatry.* 2019; 76(12):1266-1273.
-
-N/A
-
-2019 
-
-Riehm, K.E., Feder, K., Tormohlen, K.N., Crum, R.M., Young, A.S., Green, K.M., Pacek, L.R., 
-**La Flair, L.N.**, Mojtabai, R.  
-
-### The association of alcohol use disorders with suicidal ideation and attempts in a population-based sample
-
-*Archives of Suicide Research.*  2016;20(2):219-232.
-
-N/A
-
-2016
-
-### The association of co-morbid generalized anxiety disorder and alcohol use disorder symptoms with health-related quality of life: Results from the National Epidemiological Survey on Alcohol and Related Conditions
-
-*Journal of Addiction Medicine.* 2013;7(6):394-400. PMCID: 3839307
-
-N/A
-
-2013
-
-Cullen, B.A.,  **La Flair, L.N.**, Storr, C., Green K.M., Mojtabai, R., Pacek, L.R., Alvanzo, A.H.A., Crum, R.M. 
-
-### Childhood Abuse and Neglect and Transitions in Stages of Alcohol Involvement among Women: A Latent Transition Analysis Approach
-
-*Drug and Alcohol Dependence.* 2013;132(3):491-498. PMCID: 3770786
-
-N/A
-
-2013
-
-**La Flair, L.N.**, Reboussin, B., Storr, C., Letourneau, E., Green, K., Mojtabai, R., Pacek, L., Alvanzo, A., Cullen, B., Crum, R.M.  
-
-### Drinking to Self-Medicate Anxiety Symptoms:  Prospective Assessment for Subgroups of Individuals with Alcohol Dependence
-
-*Depression & Anxiety.* 2013;30(2):174-183. 
-
-N/A
-
-2013
-
-Crum, R.M., **La Flair, L.N.**, Storr, C.L., Green, K.M., Stuart, E.A., Alvanzo, A.H.A., Lazareck, R., Bolton, J.M., Robinson, J., Sareen, J., Mojtabai, R.  
+-	Expertly authored dozens of complex data sampling, cleaning, manipulation, and analysis programs in Stata for the comprehensive execution of over 10 evaluations of public policy and international development programs.
+-	Spearheaded the international unit’s statistical programming quality assurance review team ensuring accurate and precise analysis results strengthening the company’s reputation of producing high-quality, credible research.
+-	Developed a Stata user-written program (.ado) to automate the cleaning of survey data increasing programmer productivity, reducing programming errors, and improving consistency across data cleaning tasks.
+-	Led numerous post-evaluation deliveries of deidentified quantitative data to the client for which I designed an intricate Stata user-written program (.ado) to automate the process reducing labor costs.  
+-	Efficaciously communicated project evaluation designs and results using data storytelling methods and visualizations to ensure all written deliverables were accessible to audiences of disparate analytical backgrounds. 
+-	Designed dozens of succinct specification documents to efficiently guide junior staff in the execution of complex statistical programming tasks congruent with their projects’ evaluation designs increasing team productivity.
+-	Effectively coached numerous junior staff in statistical programming and data management best practices accelerating their on-boarding processes allowing them to contribute more meaningfully to projects sooner.   
+-	Reviewed, rated, and reconciled against evaluation design standards the quality and rigor of dozens of studies evaluating the effectiveness of education interventions as a certified reviewer for the What Works Clearinghouse.
+-	Efficiently managed and mentored a team of 15 What Works Clearinghouse certified reviewers for the accurate and timely execution of a systematic review effort within the pre-k/kindergarten topic area.
+-	Coauthored and analytically contributed to numerous What Works Clearinghouse products effectively communicating to educators and policy makers “what works” for improving learning and pedagogical outcomes.
+-	Reviewed and rated against evaluation design standards the quality and rigor of numerous studies evaluating the effectiveness of home-visiting models that serve families with young children as a Certified Evidence Reviewer for the Home Visiting Evidence of Effectiveness (HomVEE) of The Department of Health and Human Services. 
 
 
+### Senior Analyst
+
+Freeman Sullivan & Co.
+
+San Francisco, CA
+
+Nov 2009 - Dec 2010
+
+-	Authored numerous complex Stata programs to estimate ex-post and predict ex-ante impacts of demand response programs for moderating air conditioning demands on client electricity loads during peak usage times.
+-	Designed and constructed load pivot tables, interactive report charts, and other explanatory data visualizations for the presentation of results of demand response load impact analyses.
+-	Coauthored reports on estimated and predicted load impacts of demand response programs to guide energy management policies and decision-making of client electricity utility companies and associated governing bodies.
+
+
+### Program Intern- Monitoring & Evaluation
+
+Trickle Up
+
+New York, NY 
+
+Jun 2009-Aug 2009
+
+-	Estimated and statistically described poverty likelihoods of program participants using proxy income research data collected with poverty scorecards for internal program monitoring and decision-making.
+-	Designed analysis indicators based on poverty alleviation evaluation literature and quantitative data collected from program sites as part of the design of program performance evaluations of poverty reduction amongst participants.
+-	Wrote statistical programs for cleaning and analyzing quantitative program research data to statistically describe program activities and participants and estimate program performance on poverty alleviation amongst participants.
+-	Designed data tables for the organized entry of quantitative data collected from program sites structured to facilitate direct use by staff for descriptive statistics and the seamless importation of data to statistical software.
+-	Authored statistical guidance for use by monitoring and evaluation staff on the relationship between sample sizes and statistical power for the proper scaling of program performance evaluations given time and budget constraints.
+-	Authored how-to guides (in English and Spanish) on cleaning and analyzing quantitative data using statistical software for use by monitoring and evaluation staff
