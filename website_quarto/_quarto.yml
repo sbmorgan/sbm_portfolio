@@ -11,12 +11,17 @@ website:
         text: Coding Projects
       - href: farmlife.qmd
         text: Farm Life
+      - href: photography.qmd
+        text: Photography        
+    tools:
+      - icon: github
+        href: https://github.com/sbmorgan
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sethbmorgan/
 
 format:
   html:
-    theme:
-      - flatly
-      - brand
+    theme: flatly
     css: styles.css
     toc: true
 
