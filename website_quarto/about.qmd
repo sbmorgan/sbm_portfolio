@@ -1,8 +1,14 @@
 ---
 title: "About"
+image: images/IMG_1290.jpg
+about:
+  template: jolla
 ---
 
-About this site
+Quantitative data analyst with nearly 15 years' experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.\
+\
+Specialties: \
+Statistical Data Analysis · Statistical Programming (Stata, R) · Evaluation Design · Impact analysis · Regression Analysis · Systematic Reviews (WWC, HomVEE) · Spanish (read, write, and speak proficiently)
 
 ```{r}
 1 + 1

@@ -1,10 +1,11 @@
 ---
-title: "website_quarto"
+title: "Seth B. Morgan"
+image: images/IMG_1290.jpg
+about:
+  template: jolla
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+quantitative data analyst \| statistical programmer \| evaluation design specialist \| farmer
 
 ```{r}
 1 + 1

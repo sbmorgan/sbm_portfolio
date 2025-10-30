@@ -2,17 +2,20 @@ project:
   type: website
 
 website:
-  title: "website_quarto"
+  title: "Seth B. Morgan"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Coding Projects
+      - href: farmlife.qmd
+        text: Farm Life
 
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true

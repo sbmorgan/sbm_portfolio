@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website_quarto",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Quantitative data analyst with nearly 15 years’ experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.\n\nSpecialties:\nStatistical Data Analysis · Statistical Programming (Stata, R) · Evaluation Design · Impact analysis · Regression Analysis · Systematic Reviews (WWC, HomVEE) · Spanish (read, write, and speak proficiently)\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seth B. Morgan",
+    "section": "",
+    "text": "quantitative data analyst | statistical programmer | evaluation design specialist | farmer\n\n1 + 1\n\n[1] 2"
   }
 ]
