@@ -7,6 +7,3 @@ about:
 
 quantitative data analyst \| statistical programmer \| evaluation design specialist \| farmer
 
-```{r}
-1 + 1
-```
