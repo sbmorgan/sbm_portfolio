@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Coding Projects",
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
     "section": "",
-    "text": "[Network meta-analysis]\n[cNMA]\n{Harvest Analysis]"
+    "text": "[Fall color]\n[Architecture]\n[Ohio]\n[National Parks]"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seth B. Morgan",
+    "objectID": "farmlife.html",
+    "href": "farmlife.html",
+    "title": "Farm Life",
     "section": "",
-    "text": "quantitative data analyst | statistical programmer | evaluation design specialist | farmer"
+    "text": "[Market Gardening]\n[Berries]\n[Hops]\n[Creatures]"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,17 @@
     "text": "Quantitative data analyst with nearly 15 years’ experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.\n\nSpecialties:\nStatistical Data Analysis · Statistical Programming (Stata, R) · Evaluation Design · Impact analysis · Regression Analysis · Systematic Reviews (WWC, HomVEE) · Spanish (read, write, and speak proficiently)"
   },
   {
-    "objectID": "photography.html",
-    "href": "photography.html",
-    "title": "Photography",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seth B. Morgan",
     "section": "",
-    "text": "[Fall color]\n[Architecture]\n[Ohio]\n[National Parks]"
+    "text": "quantitative data analyst | statistical programmer | evaluation design specialist | farmer"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Coding Projects",
+    "section": "",
+    "text": "[Network meta-analysis]\n[cNMA]\n[GoalBook]\n[Harvest Analysis]\n[TidyFarm]"
   }
 ]
