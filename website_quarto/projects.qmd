@@ -10,4 +10,8 @@ title: "Coding Projects"
 
 \[Harvest Analysis\]
 
+\[Selected Mathematica projects\]
+
 \[TidyFarm\]
+
+\[DataClean\]
