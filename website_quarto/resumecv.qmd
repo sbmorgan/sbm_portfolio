@@ -1,3 +1,160 @@
 ---
-title: "resumecv"
+title: "Seth B Morgan's resume"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
 ---
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-home"></i> Medway, OH 45341
+-   <i class="fa fa-envelope"></i> seth.b.morgan\@outlook.com
+-   <i class="fa fa-linkedin"></i> [linkedin.com/sethbmorgan](https://www.linkedin.com/in/sethbmorgan/)
+-   <i class="fa fa-github"></i> [github.com/sbmorgan](https://github.com/sbmorgan)
+-   <i class="fa fa-phone"></i> +1 415-948-8277
+
+## Skills {#skills}
+
+-   Statistical data analysis
+-   Quantitative research methods
+-   Evaluation research design
+-   Technical writing
+-   Programming languages: Stata; R
+-   Other software/platforms: Git; GitHub; MS Office Suite
+-   Language: Spanish (proficient)
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of San Francisco
+
+M.A. in International & Development Economics
+
+San Francisco, CA
+
+2008
+
+GPA: 3.9
+
+Thesis: “Do Cooperatives Benefit Small Guatemalan Coffee Farmers? The Competitive Role of Guatemalan Coffee Cooperatives on Farm-Gate Coffee Prices”
+
+### The Ohio State University
+
+B.S. in Agriculture- Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish
+
+Columbus, OH
+
+2001
+
+GPA: 3.86
+
+Honors Senior Paper: "The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future"
+
+## Professional Experience {data-icon="laptop"}
+
+### Data Analytics and Evaluation Design Consultant
+
+Freelance
+
+Medway, Ohio
+
+Jun 2022 - Present
+
+-   Recommend and perform advanced data analyses, such as meta-analyses of education research data, and related statistical programming tasks in Stata and R tailored to client needs.
+-   Provide senior technical review guidance and coordination for the rating of education research against evaluation design standards established by the What Works Clearinghouse of the U.S. Department of Education.
+-   Serve as an evaluation peer reviewer for the U.S. Department of Education rating the project evaluation designs required within grant applications for the department’s funding of education projects.
+
+### Mathematica: Sr. Data Analytics Developer (Mar 2019-Dec 2022, remote); Research Analyst (Jun 2012-Mar 2019, Oakland, CA & remote); Research Assistant / Programmer III (Jun 2011-Jun 2012, Oakland, CA)
+
+Jun 2011 - Dec 2022
+
+N/A
+
+-   Expertly authored dozens of complex data sampling, cleaning, manipulation, and analysis programs in Stata for the comprehensive execution of over 10 evaluations of public policy and international development programs.
+-   Spearheaded the international unit’s statistical programming quality assurance review team ensuring accurate and precise analysis results strengthening the company’s reputation of producing high-quality, credible research.
+-   Developed a Stata user-written program (.ado) to automate the cleaning of survey data increasing programmer productivity, reducing programming errors, and improving consistency across data cleaning tasks.
+-   Led numerous post-evaluation deliveries of deidentified quantitative data to the client for which I designed an intricate Stata user-written program (.ado) to automate the process reducing labor costs.\
+-   Efficaciously communicated project evaluation designs and results using data storytelling methods and visualizations to ensure all written deliverables were accessible to audiences of disparate analytical backgrounds.
+-   Designed dozens of succinct specification documents to efficiently guide junior staff in the execution of complex statistical programming tasks congruent with their projects’ evaluation designs increasing team productivity.
+-   Effectively coached numerous junior staff in statistical programming and data management best practices accelerating their on-boarding processes allowing them to contribute more meaningfully to projects sooner.\
+-   Reviewed, rated, and reconciled against evaluation design standards the quality and rigor of dozens of studies evaluating the effectiveness of education interventions as a certified reviewer for the What Works Clearinghouse.
+-   Efficiently managed and mentored a team of 15 What Works Clearinghouse certified reviewers for the accurate and timely execution of a systematic review effort within the pre-k/kindergarten topic area.
+-   Coauthored and analytically contributed to numerous What Works Clearinghouse products effectively communicating to educators and policy makers “what works” for improving learning and pedagogical outcomes.
+-   Reviewed and rated against evaluation design standards the quality and rigor of numerous studies evaluating the effectiveness of home-visiting models that serve families with young children as a Certified Evidence Reviewer for the Home Visiting Evidence of Effectiveness (HomVEE) of The Department of Health and Human Services.
+
+### Senior Analyst
+
+Freeman Sullivan & Co.
+
+San Francisco, CA
+
+Nov 2009 - Dec 2010
+
+-   Authored numerous complex Stata programs to estimate ex-post and predict ex-ante impacts of demand response programs for moderating air conditioning demands on client electricity loads during peak usage times.
+-   Designed and constructed load pivot tables, interactive report charts, and other explanatory data visualizations for the presentation of results of demand response load impact analyses.
+-   Coauthored reports on estimated and predicted load impacts of demand response programs to guide energy management policies and decision-making of client electricity utility companies and associated governing bodies.
+
+### Program Intern- Monitoring & Evaluation
+
+Trickle Up
+
+New York, NY
+
+Jun 2009-Aug 2009
+
+-   Estimated and statistically described poverty likelihoods of program participants using proxy income research data collected with poverty scorecards for internal program monitoring and decision-making.
+-   Designed analysis indicators based on poverty alleviation evaluation literature and quantitative data collected from program sites as part of the design of program performance evaluations of poverty reduction amongst participants.
+-   Wrote statistical programs for cleaning and analyzing quantitative program research data to statistically describe program activities and participants and estimate program performance on poverty alleviation amongst participants.
+-   Designed data tables for the organized entry of quantitative data collected from program sites structured to facilitate direct use by staff for descriptive statistics and the seamless importation of data to statistical software.
+-   Authored statistical guidance for use by monitoring and evaluation staff on the relationship between sample sizes and statistical power for the proper scaling of program performance evaluations given time and budget constraints.
+-   Authored how-to guides (in English and Spanish) on cleaning and analyzing quantitative data using statistical software for use by monitoring and evaluation staff
+
+## Certifications {data-icon="award"}
+
+### WWC Certified Reviewer, Group Design Standards (GDS), Version 5.0
+
+Institute of Education Sciences (IES)
+
+May 2023
+
+### WWC Certified Reviewer, Regression Discontinuity Design (RDD) Standards, Version 4.1
+
+Institute of Education Sciences (IES)
+
+May 2022
+
+### Certified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)
+
+The Department of Health and Human Services (HHS)
+
+Jan 2021
+
+### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 4.1
+
+Institute of Education Sciences (IES)
+
+Jun 2020
+
+## Selected Honors & Activities {data-icon="trophy"}
+
+### Presented master’s thesis at Pacific Conference for Development Economics (PacDev)
+
+2008
+
+### Graduate program overseas field study in Huehuetenango, Guatemala
+
+2007
+
+### Graduated with Distinction, Magna Cum Laude, The Ohio State University
+
+2001
+
+### Undergraduate program study abroad in Guanajuato, Mexico
+
+2001
+
+### University Honors Program, The Ohio State University
+
+1997 - 2001

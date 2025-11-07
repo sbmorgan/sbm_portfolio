@@ -2,6 +2,8 @@
 title: "Coding Projects"
 ---
 
+\*Current projects:
+
 \[Network meta-analysis\]
 
 \[cNMA\]
@@ -10,7 +12,11 @@ title: "Coding Projects"
 
 \[Harvest Analysis\]
 
+\*Selected past projects:
+
 \[Selected Mathematica projects\]
+
+\*R Packages:
 
 \[TidyFarm\]
 
