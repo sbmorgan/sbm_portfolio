@@ -18,19 +18,19 @@ output:
 
 ## Skills {#skills}
 
--   Statistical data analysis
--   Quantitative research methods
--   Evaluation research design
+-   Quantitative research methods and data analysis
+-   Statistical programming (Stata; R): data cleaning, manipulation, analysis, and visualization
+-   Evaluation design
 -   Technical writing
 -   Programming languages: Stata; R
 -   Other software/platforms: Git; GitHub; MS Office Suite
--   Language: Spanish (proficient)
+-   Foreign language: Spanish (proficient)
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### University of San Francisco
 
-M.A. in International & Development Economics
+#### *M.A. in International & Development Economics*
 
 San Francisco, CA
 
@@ -38,11 +38,11 @@ San Francisco, CA
 
 GPA: 3.9
 
-Thesis: “Do Cooperatives Benefit Small Guatemalan Coffee Farmers? The Competitive Role of Guatemalan Coffee Cooperatives on Farm-Gate Coffee Prices”
+Thesis: “*Do Cooperatives Benefit Small Guatemalan Coffee Farmers? The Competitive Role of Guatemalan Coffee Cooperatives on Farm-Gate Coffee Prices*”
 
 ### The Ohio State University
 
-B.S. in Agriculture- Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish
+#### *B.S. in Agriculture- Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish*
 
 Columbus, OH
 
@@ -50,43 +50,47 @@ Columbus, OH
 
 GPA: 3.86
 
-Honors Senior Paper: "The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future"
+Honors Senior Paper: "*The H-2A Temporary Agricultural Worker Program: The Program, Its Environment, Its Reforms, Its Future*"
 
 ## Professional Experience {data-icon="laptop"}
 
 ### Data Analytics and Evaluation Design Consultant
 
-Freelance
+*Freelance*
 
 Medway, Ohio
 
-Jun 2022 - Present
+Jan 2023 - Present
 
 -   Recommend and perform advanced data analyses, such as meta-analyses of education research data, and related statistical programming tasks in Stata and R tailored to client needs.
 -   Provide senior technical review guidance and coordination for the rating of education research against evaluation design standards established by the What Works Clearinghouse of the U.S. Department of Education.
 -   Serve as an evaluation peer reviewer for the U.S. Department of Education rating the project evaluation designs required within grant applications for the department’s funding of education projects.
 
-### Mathematica: Sr. Data Analytics Developer (Mar 2019-Dec 2022, remote); Research Analyst (Jun 2012-Mar 2019, Oakland, CA & remote); Research Assistant / Programmer III (Jun 2011-Jun 2012, Oakland, CA)
+### Mathematica
+
+*Sr. Data Analytics Developer* (Mar 2019-Dec 2022, remote);
+
+*Research Analyst* (Jun 2012-Mar 2019, Oakland, CA & remote);
+
+*Research Assistant / Programmer III* (Jun 2011-Jun 2012, Oakland, CA)
 
 Jun 2011 - Dec 2022
-
-N/A
 
 -   Expertly authored dozens of complex data sampling, cleaning, manipulation, and analysis programs in Stata for the comprehensive execution of over 10 evaluations of public policy and international development programs.
 -   Spearheaded the international unit’s statistical programming quality assurance review team ensuring accurate and precise analysis results strengthening the company’s reputation of producing high-quality, credible research.
 -   Developed a Stata user-written program (.ado) to automate the cleaning of survey data increasing programmer productivity, reducing programming errors, and improving consistency across data cleaning tasks.
--   Led numerous post-evaluation deliveries of deidentified quantitative data to the client for which I designed an intricate Stata user-written program (.ado) to automate the process reducing labor costs.\
+-   Led numerous post-evaluation deliveries of deidentified quantitative data to the client for which I designed an intricate Stata user-written program (.ado) to automate the process reducing labor costs.
 -   Efficaciously communicated project evaluation designs and results using data storytelling methods and visualizations to ensure all written deliverables were accessible to audiences of disparate analytical backgrounds.
 -   Designed dozens of succinct specification documents to efficiently guide junior staff in the execution of complex statistical programming tasks congruent with their projects’ evaluation designs increasing team productivity.
--   Effectively coached numerous junior staff in statistical programming and data management best practices accelerating their on-boarding processes allowing them to contribute more meaningfully to projects sooner.\
+-   Effectively coached numerous junior staff in statistical programming and data management best practices accelerating their on-boarding processes allowing them to contribute more meaningfully to projects sooner.
 -   Reviewed, rated, and reconciled against evaluation design standards the quality and rigor of dozens of studies evaluating the effectiveness of education interventions as a certified reviewer for the What Works Clearinghouse.
 -   Efficiently managed and mentored a team of 15 What Works Clearinghouse certified reviewers for the accurate and timely execution of a systematic review effort within the pre-k/kindergarten topic area.
 -   Coauthored and analytically contributed to numerous What Works Clearinghouse products effectively communicating to educators and policy makers “what works” for improving learning and pedagogical outcomes.
 -   Reviewed and rated against evaluation design standards the quality and rigor of numerous studies evaluating the effectiveness of home-visiting models that serve families with young children as a Certified Evidence Reviewer for the Home Visiting Evidence of Effectiveness (HomVEE) of The Department of Health and Human Services.
 
-### Senior Analyst
+### Freeman Sullivan & Co.
 
-Freeman Sullivan & Co.
+*Senior Analyst*
 
 San Francisco, CA
 
@@ -96,9 +100,9 @@ Nov 2009 - Dec 2010
 -   Designed and constructed load pivot tables, interactive report charts, and other explanatory data visualizations for the presentation of results of demand response load impact analyses.
 -   Coauthored reports on estimated and predicted load impacts of demand response programs to guide energy management policies and decision-making of client electricity utility companies and associated governing bodies.
 
-### Program Intern- Monitoring & Evaluation
+### Trickle Up
 
-Trickle Up
+*Program Intern- Monitoring & Evaluation*
 
 New York, NY
 
@@ -112,6 +116,12 @@ Jun 2009-Aug 2009
 -   Authored how-to guides (in English and Spanish) on cleaning and analyzing quantitative data using statistical software for use by monitoring and evaluation staff
 
 ## Certifications {data-icon="award"}
+
+### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 5.0
+
+Institute of Education Sciences (IES)
+
+Apr 2024
 
 ### WWC Certified Reviewer, Group Design Standards (GDS), Version 5.0
 
@@ -131,30 +141,76 @@ The Department of Health and Human Services (HHS)
 
 Jan 2021
 
-### WWC Certified Reviewer, Single-Case Design Standards (SCD), Version 4.1
-
-Institute of Education Sciences (IES)
-
-Jun 2020
-
 ## Selected Honors & Activities {data-icon="trophy"}
 
-### Presented master’s thesis at Pacific Conference for Development Economics (PacDev)
+#### Presented master’s thesis at Pacific Conference for Development Economics (PacDev)
 
 2008
 
-### Graduate program overseas field study in Huehuetenango, Guatemala
+#### Graduate program overseas field study in Huehuetenango, Guatemala
 
 2007
 
-### Graduated with Distinction, Magna Cum Laude, The Ohio State University
+#### Graduated with Distinction, Magna Cum Laude, The Ohio State University
 
 2001
 
-### Undergraduate program study abroad in Guanajuato, Mexico
+#### Undergraduate program study abroad in Guanajuato, Mexico
 
 2001
 
-### University Honors Program, The Ohio State University
+#### University Honors Program, The Ohio State University
 
 1997 - 2001
+
+## Selected Publications & Reports {data-icon="trophy"}
+
+Borkum, Evan, Jane Fortson, Irina Cheban, Seth B. Morgan, Noami Dorsey, Cullen Seaton, and Hailey Hannigan. “Moldova Transition to High-Value Agriculture: Final Report.” Submitted to the Millennium Challenge Corporation. Seattle, WA: Mathematica, March 2023.
+
+Vaughn, S., R. Gersten, J. Dimino, M. J. Taylor, R. Newman-Gonchar, S. Krowka, M. J. Kieffer, M. McKeown, D. Reed, M. Sanchez, and contributing authors. “Providing Reading Interventions for Students in Grades 4-9.” Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education, March 2022 (contributing author).
+
+Fuchs, L.S., R. Newman-Gonchar, R. Schumacher, B. Dougherty, N. Bucka, K.S. Karp, J. Woodward, B. Clarke, N.C. Jordan, R. Gersten, and contributing authors. “Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades.” Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education, March 2021 (contributing author).
+
+Moore, Audrey, Galina Lapadatova, Sarah Humpage Liuzzi, Seth Morgan, and Catalina Torrente. “Guatemala Education Project Baseline Report.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica, July 2019.
+
+Ksoll, Christopher, Randall Blair, Seth Morgan, Caroline Lauver, and Yiriyibin Bambio. “MCC Burkina Faso— Agriculture Development Project Interim Report.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica, July 2019.
+
+Ksoll, Christopher, Chantal Toledo, Seth Morgan, and Anca Dumitrescu. “Evaluation of the Burkina Faso Agriculture Development Project: Baseline Report.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, April 2018.
+
+Moore, Audrey, Edith Felix, Sarah Humpage Liuzzi, Seth Morgan, Catalina Torrente, and Anthony DeWees. “Guatemala Threshold Education Program: Evaluation Design Report.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, April 2018.
+
+Welsh, Delia, Anthony Harris, Anu Rangarajan, Patricia Costa, Sarah Hughes, Laura Meyer, Seth Morgan, and Ali Protik. “Design Report: Evaluation of the Tanzania Road and Mafia Island Runway Activities.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, June 2017.
+
+Ksoll, Christopher, Chantal Toledo, Seth Morgan, and Anca Dumitrescu. “Evaluation of the Burkina Faso Agriculture Development Project: Design Report.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, June 2017.
+
+Moore, Audrey, Edith Felix, Sarah Humpage Liuzzi, Seth Morgan, and Catalina Torrente. “Program Logic Assessment for the Guatemala Education Threshold Project.” Submitted to Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, December 2016.
+
+Borkum, Evan, Irina Cheban, Jane Fortson, Alexander Johann, and Seth B. Morgan. “The Access to Agricultural Finance Credit Program in Moldova: Findings from an End-of-Compact Analysis.” Submitted to the Millennium Challenge Corporation. Oakland, CA: Mathematica Policy Research, December 2016.
+
+Campuzano, Larissa, Randall Blair, Virginia Poggio, Ivonne Padilla, Seth Morgan, and Michael Brannan. “Evaluation of the Formal Technical Education Sub-Activity of the Human Development Project, El Salvador.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, June 2016.
+
+Borkum, Evan, Seth B. Morgan, Jane Fortson, Alexander Johann, and Kenneth Fortson. “Evaluation of the Transition to High-Value Agriculture Project in Moldova: Baseline Findings from the 2013–2014 Farm Operator Survey.” Submitted to the Millennium Challenge Corporation. Oakland, CA: Mathematica Policy Research, October 2015.
+
+Campuzano, Larissa, Sarah Humpage, Randall Blair, Seth Morgan, and Becca Wang. “Evaluation of the Non-Formal Skills Development Sub-Activity of the Millennium Challenge Corporation’s Compact with the Government of El Salvador.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, April 2015.
+
+Borkum, Evan, Jane Fortson, Seth Morgan, Kenneth Fortson, and Bethany Simard. “Evaluation of the Value Chain Training Sub Activity of the Growing High-Value Agriculture Activity: Baseline Findings from the 2012-2013 Farm Operator Survey.” Submitted to the Millennium Challenge Corporation. Oakland, CA: Mathematica Policy Research, April 2015.
+
+Borkum, Evan, Jane Fortson, Kenneth Fortson, Seth Morgan, and Bethany Simard. “Evaluation of the Irrigation Sector Reform Activity and Centralized Irrigation Systems Rehabilitation Activity in Moldova: Baseline Findings from the 2012-2013 Farm Operator Survey.” Submitted to the Millennium Challenge Corporation. Oakland, CA: Mathematica Policy Research, February 2015.
+
+Blair, Randall, Seth Morgan, and Larissa Campuzano. “Impact Evaluation Findings after Three Years of the Productive and Business Services Activity in Handicrafts of the Productive Development Project, El Salvador.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, June 2014.
+
+Rangarajan, Anu, Evan Borkum, Swetha Sridharan, Dana Rotz, Mercy Manoranjini, and Seth Morgan. “Baseline Findings from the Ananya Evaluation.” Submitted to the Bill & Melinda Gates Foundation. Princeton, NJ: Mathematica Policy Research, November 2013.
+
+Campuzano, Larissa, Elena Blebea, Randall Blair, Seth Morgan, and Carolyn Chuong. “Memorandum: Performance Evaluation of the Non-Formal Skills Development Sub-Activity: Interim Results, 2009 to 2010.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, June 2013.
+
+Campuzano, Larissa, Seth Morgan, and Randall Blair. “Memorandum: Impact Evaluation of the Secondary School Strengthening Intervention: Interim Results, 2010 to 2011.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, May 2013.
+
+Campuzano, Larissa, Seth Morgan, Lorenzo Moreno, and Randall Blair. “Memorandum: Impact Evaluation of the Scholarship Intervention for Secondary Schools: Interim Results, 2010 to 2011.” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, May 2013.
+
+Blair, Randall, Larissa Campuzano, Lorenzo Moreno, and Seth Morgan. “Impact Evaluation Findings after One Year of the Productive and Business Service Activity of the Productive Development Project, El Salvador (Interim Report).” Submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research, August 2012.
+
+Bode, Josh, Michael Perry, and Seth Morgan. “Assessment of Settlement Baseline Methods for Ontario Power Authority’s Commercial and Industrial Event-Based Demand Response Program.” Prepared for Ontario Power Authority. San Francisco: Freeman Sullivan & Co., 2010.
+
+Bode, Josh, Michael Perry, and Seth Morgan. “Southern California Edison’s 2009 Demand Response Load Impact Evaluations Portfolio Summary.” Prepared for Southern California Edison and the California Public Utilities Commission. San Francisco: Freeman Sullivan & Co., 2010.
+
+George, Steve, Josh Bode, Josh Schellenberg, and Seth Morgan. “2009 Load Impact Evaluation of San Diego Gas & Electric Company’s Summer Saver Program.” Prepared for San Diego Gas & Electric. San Francisco: Freeman Sullivan & Co., 2010.
