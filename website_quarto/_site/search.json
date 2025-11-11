@@ -88,6 +88,6 @@
     "href": "projects.html",
     "title": "Coding Projects",
     "section": "",
-    "text": "*Current projects:\n[Network meta-analysis]\n[cNMA]\n[GoalBook]\n[Harvest Analysis]\n*Selected past projects:\n[Selected Mathematica projects]\n*R Packages:\n[TidyFarm]\n[DataClean]"
+    "text": "*Current projects:\n[Network meta-analysis]\nR code on GitHub: NMA_metafor_allnodes_ic.R\n    ### Fit NMA model assuming consistency (tau^2_omega=0)\n    res_mod_icW &lt;- rma.mv(effect_size, V_list, \n                            mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as the reference level for the comparisons.\n                            random = ~ 1 | record_id/es_id, \n                            rho=0.60, \n                            data=NMA_data_analysis_subset_grpID_icW)\n    summary(res_mod_icW) \n\n\n[cNMA]\n[GoalBook]\n[Harvest Analysis]\n*Selected past projects:\n[Selected Mathematica projects]\n*R Packages:\n[TidyFarm]\n[DataClean]"
   }
 ]

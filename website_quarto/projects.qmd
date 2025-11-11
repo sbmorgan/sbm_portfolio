@@ -6,6 +6,22 @@ title: "Coding Projects"
 
 \[Network meta-analysis\]
 
+R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
+
+``` R
+    ### Fit NMA model assuming consistency (tau^2_omega=0)
+    res_mod_icW <- rma.mv(effect_size, V_list, 
+                            mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as the reference level for the comparisons.
+                            random = ~ 1 | record_id/es_id, 
+                            rho=0.60, 
+                            data=NMA_data_analysis_subset_grpID_icW)
+    summary(res_mod_icW) 
+```
+
+![](images/nma_forest_plot_icW_allnodes.png)
+
+![](images/nma_network_graph_icW_allnodes.png)
+
 \[cNMA\]
 
 \[GoalBook\]
