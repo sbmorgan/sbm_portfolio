@@ -8,7 +8,7 @@ title: "Coding Projects"
 
 R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
 
-``` R
+``` r
     ### Fit NMA model assuming consistency (tau^2_omega=0)
     res_mod_icW <- rma.mv(effect_size, V_list, 
                             mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as the reference level for the comparisons.

@@ -8,7 +8,7 @@ website:
       - href: about.qmd
         text: About
       - href: resumecv.qmd
-        text: Resume/CV
+        text: CV
       - href: projects.qmd
         text: Coding Projects
       - href: farmlife.qmd
@@ -20,6 +20,9 @@ website:
         href: https://github.com/sbmorgan
       - icon: linkedin
         href: https://www.linkedin.com/in/sethbmorgan/
+  repo-url: https://github.com/sbmorgan/sbm_portfolio
+  repo-subdir: website_quarto
+  repo-actions: [source]
 
 format:
   html:

@@ -1,11 +1,44 @@
 ---
-title: "About"
+#title: "About"
 image: images/IMG_1290.jpg
-about:
-  template: jolla
+# about:
+#   template: jolla
 ---
 
-Quantitative data analyst with nearly 15 years' experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.\
+## Bio
+
+starting in rural sw oh -\> nursery work -\> Spanish and travel -\> nursery to development -\> masters -\> proferssional analyst/programmer at Mathematica, ag first then also education -\> personal consultancy + farm development
+
+{My weekly languages include R, Stata, and Python}
+
+{Quantitative data analyst with nearly 15 years' experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.}\
 \
-Specialties:\
-Statistical Data Analysis · Statistical Programming (Stata, R) · Evaluation Design · Impact analysis · Regression Analysis · Systematic Reviews (WWC, HomVEE) · Spanish (read, write, and speak proficiently)
+[My full CV](documents/resume_Seth_B_Morgan_2025.pdf)
+
+
+## Notable skills
+
+-   Statistical Data Analysis · Statistical Programming (Stata, R)
+
+-   Evaluation Design · Impact Analysis · Meta-analysis · Systematic Reviews
+
+-   Organic market farming · Farm business development · Sustainable agriculture
+
+-   Spanish (read, write, and speak proficiently)
+
+## Education
+
+-   M.A. in International & Development Economics, University of San Francisco, 2008
+
+-   B.S. in Agriculture (Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish), The Ohio State University, 2001
+
+## Contact Info
+
+-   Cell: +1 415-948-8277
+
+-   Email: seth.b.morgan\@outlook.com
+
+-   GitHub: <https://github.com/sbmorgan>
+
+-   LinkedIn: <https://www.linkedin.com/in/sethbmorgan/>
+

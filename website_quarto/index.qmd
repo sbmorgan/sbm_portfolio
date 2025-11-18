@@ -5,5 +5,5 @@ about:
   template: jolla
 ---
 
-quantitative data analyst \| statistical programmer \| evaluation design specialist \| farmer
+**data analyst \| programmer \| farmer**
 
