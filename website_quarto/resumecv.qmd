@@ -1,5 +1,5 @@
 ---
-title: "Seth B Morgan's resume"
+title: "Seth B Morgan's CV:"
 format:
   html:
     toc: false
@@ -11,5 +11,4 @@ output:
 #knit: pagedown::chrome_print
 ---
 
-<iframe src="documents/resume_Seth_B_Morgan_2025.pdf" width="100%" height="600px"></iframe>
----
+## <iframe src="documents/resume_Seth_B_Morgan_2025.pdf" width="100%" height="600px"></iframe>

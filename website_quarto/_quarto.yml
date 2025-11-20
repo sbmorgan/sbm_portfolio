@@ -10,7 +10,7 @@ website:
       - href: resumecv.qmd
         text: CV
       - href: projects.qmd
-        text: Coding Projects
+        text: Projects
       - href: farmlife.qmd
         text: Farm Life
       - href: photography.qmd
