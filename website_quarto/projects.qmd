@@ -13,9 +13,7 @@ listing:
   sort: "date desc"
 ---
 
-\[GoalBook\]
-
-\[Harvest Analysis\]
+\[Data Cleaning- GoalBook\]
 
 \*Selected past projects:
 

@@ -53,21 +53,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "[GoalBook]\n[Harvest Analysis]\n*Selected past projects:\n[Selected Mathematica projects]\n*R Packages:\n[TidyFarm]\n[DataClean]\n\n\n\n\n\n\n\n\n\n\n\n\nNetwork Meta-analysis\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "[Data Cleaning- GoalBook]\n*Selected past projects:\n[Selected Mathematica projects]\n*R Packages:\n[TidyFarm]\n[DataClean]\n\n\n\n\n\n\n\n\n\n\n\n\nNetwork Meta-analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Brosey Farm- Crop & Harvest Analysis\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "photography.html",
-    "href": "photography.html",
-    "title": "Photography",
+    "objectID": "projects/nma.html",
+    "href": "projects/nma.html",
+    "title": "Network Meta-analysis",
     "section": "",
-    "text": "[Fall color]\n[Architecture]\n[Ohio]\n[National Parks]\n[Landscapes]"
+    "text": "R code on GitHub: NMA_metafor_allnodes_ic.R\n    ### Fit NMA model assuming consistency (tau^2_omega=0)     \n    res_mod_icW &lt;- rma.mv(effect_size, V_list,                              \n                          mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as reference level\n                          random = ~ 1 | record_id/es_id,                              \n                          rho=0.60,                              \n                          data=NMA_data_analysis_subset_grpID_icW)     \n    summary(res_mod_icW) \n\n\n[cNMA]"
   },
   {
-    "objectID": "farmlife.html",
-    "href": "farmlife.html",
-    "title": "Farm Life",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seth B. Morgan",
     "section": "",
-    "text": "[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
+    "text": "data analyst | programmer | farmer"
   },
   {
     "objectID": "about.html",
@@ -105,17 +105,17 @@
     "text": "Contact Info\n\nCell: +1 415-948-8277\nEmail: seth.b.morgan@outlook.com\nGitHub: https://github.com/sbmorgan\nLinkedIn: https://www.linkedin.com/in/sethbmorgan/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seth B. Morgan",
+    "objectID": "farmlife.html",
+    "href": "farmlife.html",
+    "title": "Farm Life",
     "section": "",
-    "text": "data analyst | programmer | farmer"
+    "text": "Instagram\nFacebook\n[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
   },
   {
-    "objectID": "projects/nma.html",
-    "href": "projects/nma.html",
-    "title": "Network Meta-analysis",
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
     "section": "",
-    "text": "R code on GitHub: NMA_metafor_allnodes_ic.R\n    ### Fit NMA model assuming consistency (tau^2_omega=0)     \n    res_mod_icW &lt;- rma.mv(effect_size, V_list,                              \n                          mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as reference level\n                          random = ~ 1 | record_id/es_id,                              \n                          rho=0.60,                              \n                          data=NMA_data_analysis_subset_grpID_icW)     \n    summary(res_mod_icW) \n\n\n[cNMA]"
+    "text": "[Fall color]\n[Architecture]\n[Ohio]\n[National Parks]\n[Landscapes]"
   }
 ]
