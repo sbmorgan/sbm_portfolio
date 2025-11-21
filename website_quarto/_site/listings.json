@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/photography.html",
+    "items": [
+      "/photography/cityscapes.html",
+      "/photography/kyoto_by_fall.html",
+      "/photography/landscapes.html",
+      "/photography/outside.html",
+      "/photography/travels.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/nma.html",

@@ -1,13 +1,14 @@
 ---
 title: "Photography"
+listing:
+  contents: photography
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
 ---
-
-\[Fall color\]
-
-\[Architecture\]
-
-\[Ohio\]
-
-\[National Parks\]
-
-\[Landscapes\]

@@ -10,9 +10,9 @@ website:
       - href: resumecv.qmd
         text: CV
       - href: projects.qmd
-        text: Projects
-      - href: farmlife.qmd
-        text: Farm Life
+        text: Coding Projects
+      - href: tbf.qmd
+        text: The Brosey Farm
       - href: photography.qmd
         text: Photography        
     tools:
