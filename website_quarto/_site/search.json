@@ -11,14 +11,35 @@
     "href": "photography.html",
     "title": "Photography",
     "section": "",
-    "text": "Cityscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nKyoto by Fall\n\n\n\n\n\n\n\n\n\n\n\n\n\nLandscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutside\n\n\n\n\n\n\n\n\n\n\n\n\n\nTravels\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Cityscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nFall color\n\n\n\n\n\n\n\n\n\n\n\n\n\nLandscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the Green\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Buckeye State\n\n\n\n\n\n\n\n\n\n\n\n\n\nTravels\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seth Brosey Morgan",
+    "objectID": "photography/the_buckeye_state.html",
+    "href": "photography/the_buckeye_state.html",
+    "title": "The Buckeye State",
     "section": "",
-    "text": "data analyst | programmer | farmer"
+    "text": "Hocking Hills State Park, Hocking County, OH"
+  },
+  {
+    "objectID": "photography/landscapes.html",
+    "href": "photography/landscapes.html",
+    "title": "Landscapes",
+    "section": "",
+    "text": "Olympia, WA\n\nKumano Kodo, Japan\n\nGrand Canyon, AZ\n\nRocky Mountains, CO\n\nHurricane Ridge, Olympic National Park"
+  },
+  {
+    "objectID": "photography/cityscapes.html",
+    "href": "photography/cityscapes.html",
+    "title": "Cityscapes",
+    "section": "",
+    "text": "Golden Gate Bridge, San Francisco, CA\n\nThe Painted Ladies/Downtown, San Francisco, CA\n\nLake Merritt, Oakland, CA\n\nWashington State Capitol Building, Olympia, WA\n\nKyoto, Japan"
+  },
+  {
+    "objectID": "farmlife.html",
+    "href": "farmlife.html",
+    "title": "Farm Life",
+    "section": "",
+    "text": "Instagram\n\nFacebook\n[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
   },
   {
     "objectID": "about.html",
@@ -56,18 +77,25 @@
     "text": "Contact Info\n\nCell: +1 415-948-8277\nEmail: seth.b.morgan@outlook.com\nGitHub: https://github.com/sbmorgan\nLinkedIn: https://www.linkedin.com/in/sethbmorgan/"
   },
   {
-    "objectID": "farmlife.html",
-    "href": "farmlife.html",
-    "title": "Farm Life",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seth Brosey Morgan",
     "section": "",
-    "text": "Instagram\n\nFacebook\n[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
+    "text": "data analyst | programmer | farmer"
   },
   {
-    "objectID": "photography/cityscapes.html",
-    "href": "photography/cityscapes.html",
-    "title": "Cityscapes",
+    "objectID": "photography/fall_color.html",
+    "href": "photography/fall_color.html",
+    "title": "Fall color",
     "section": "",
-    "text": "Oakland, CA\n\nSan Francisco, CA\n\nSan Francisco, CA"
+    "text": "Kyoto, Japan\n\nKyoto, Japan"
+  },
+  {
+    "objectID": "photography/outside.html",
+    "href": "photography/outside.html",
+    "title": "In the Green",
+    "section": "",
+    "text": "Portland Japanese Garden, Portland, OR\n\nPortland Japanese Garden, Portland, OR"
   },
   {
     "objectID": "projects/nma.html",
