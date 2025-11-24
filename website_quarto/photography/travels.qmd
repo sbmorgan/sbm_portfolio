@@ -4,4 +4,4 @@ title: "Travels"
 
 ![](/images/IMG_8215.jpg)
 
-![](/images/IMG_0959.jpg){width="633"}
+![](/images/IMG_0959.jpg){width="443"}
