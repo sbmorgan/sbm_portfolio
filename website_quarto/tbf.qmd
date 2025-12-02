@@ -1,19 +1,24 @@
 ---
-title: "Farm Life"
+title: "The Brosey Farm"
+listing:
+  contents: tbf
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
 ---
 
-[Instagram](https://www.instagram.com/the_brosey_farm/)
+Follow us online at: 
 
-![](images/the_brosey_farm_qr.png){width="225"}
+- {{< fa laptop size=2x >}} Our website:  [thebroseyfarm.com](https://thebroseyfarm.com)
 
-[Facebook](https://www.facebook.com/profile.php?id=61558245772097)
+- {{< fa brands facebook size=2x >}} [Facebook](https://www.facebook.com/profile.php?id=61558245772097)
 
-\[Market Gardening\]
+- {{< fa brands instagram size=2x >}} [Instagram](https://www.instagram.com/the_brosey_farm/)
 
-\[Berries\]
-
-\[Hops\]
-
-\[Farmers Markets\]
-
-\[Creatures\]
+![](images/the_brosey_farm_qr.png){width="150px" style="margin-left:40px"}

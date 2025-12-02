@@ -33,10 +33,10 @@ starting in rural sw oh -\> nursery work -\> Spanish and travel -\> nursery to d
 
 ## Contact Info
 
--   Cell: +1 415-948-8277
+-   {{< fa phone size=2x >}} Cell: +1 415-948-8277
 
--   Email: seth.b.morgan\@outlook.com
+-   {{< fa envelope size=2x >}} Email: seth.b.morgan\@outlook.com
 
--   GitHub: <https://github.com/sbmorgan>
+-   {{< fa brands github size=2x >}} GitHub: <https://github.com/sbmorgan>
 
--   LinkedIn: <https://www.linkedin.com/in/sethbmorgan/>
+-   {{< fa brands linkedin size=2x >}} LinkedIn: <https://www.linkedin.com/in/sethbmorgan/>
