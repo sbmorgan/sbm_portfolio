@@ -1,7 +1,14 @@
 ---
 title: "Travels"
+listing:
+  contents: "travels/*.qmd"
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
 ---
-
-![](/images/IMG_8215.jpg)
-
-![](/images/IMG_0959.jpg){width="443"}

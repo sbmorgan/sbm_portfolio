@@ -14,11 +14,18 @@
     "listing": "/photography.html",
     "items": [
       "/photography/cityscapes.html",
-      "/photography/fall_color.html",
+      "/photography/in_the_green_pnw.html",
       "/photography/landscapes.html",
-      "/photography/outside.html",
       "/photography/the_buckeye_state.html",
       "/photography/travels.html"
+    ]
+  },
+  {
+    "listing": "/photography/travels.html",
+    "items": [
+      "/photography/travels/germany.html",
+      "/photography/travels/japan.html",
+      "/photography/travels/wales.html"
     ]
   },
   {
