@@ -13,11 +13,18 @@
   {
     "listing": "/photography.html",
     "items": [
-      "/photography/cityscapes.html",
-      "/photography/in_the_green_pnw.html",
-      "/photography/landscapes.html",
+      "/photography/nature.html",
+      "/photography/scapes.html",
       "/photography/the_buckeye_state.html",
       "/photography/travels.html"
+    ]
+  },
+  {
+    "listing": "/photography/scapes.html",
+    "items": [
+      "/photography/scapes/cityscapes.html",
+      "/photography/scapes/landscapes.html",
+      "/photography/scapes/sportscapes.html"
     ]
   },
   {

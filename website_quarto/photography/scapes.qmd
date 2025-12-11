@@ -1,0 +1,14 @@
+---
+title: "Scapes"
+listing:
+  contents: "scapes/*.qmd"
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
+---

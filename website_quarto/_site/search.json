@@ -11,28 +11,35 @@
     "href": "photography.html",
     "title": "Photography",
     "section": "",
-    "text": "Cityscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the Green (The Pacific Northwest)\n\n\n\n\n\n\n\n\n\n\n\n\n\nLandscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Buckeye State\n\n\n\n\n\n\n\n\n\n\n\n\n\nTravels\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Nature\n\n\n\n\n\n\n\n\n\n\n\n\n\nScapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Buckeye State\n\n\n\n\n\n\n\n\n\n\n\n\n\nTravels\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "photography/landscapes.html",
-    "href": "photography/landscapes.html",
+    "objectID": "photography/scapes.html",
+    "href": "photography/scapes.html",
+    "title": "Scapes",
+    "section": "",
+    "text": "Cityscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nLandscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\nSportscapes\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "photography/scapes/landscapes.html",
+    "href": "photography/scapes/landscapes.html",
     "title": "Landscapes",
     "section": "",
     "text": "Mount Rainier over Olympia, WA\n\nKumano Kodo, Japan\n\nGrand Canyon, AZ\n\nRocky Mountains, CO\n\nHurricane Ridge, Olympic National Park, WA"
   },
   {
-    "objectID": "photography/cityscapes.html",
-    "href": "photography/cityscapes.html",
-    "title": "Cityscapes",
+    "objectID": "photography/nature/in_the_green_pnw.html",
+    "href": "photography/nature/in_the_green_pnw.html",
+    "title": "In the Green (The Pacific Northwest)",
     "section": "",
-    "text": "Golden Gate Bridge, San Francisco, CA\n\nThe Painted Ladies/Downtown, San Francisco, CA\n\nLake Merritt, Oakland, CA\n\nWashington State Capitol Building, Olympia, WA\n\nKyoto, Japan"
+    "text": "Portland Japanese Garden, Portland, OR\n\nPortland Japanese Garden, Portland, OR"
   },
   {
-    "objectID": "farmlife.html",
-    "href": "farmlife.html",
-    "title": "Farm Life",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seth Brosey Morgan",
     "section": "",
-    "text": "Instagram\n\nFacebook\n[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
+    "text": "data analyst | programmer | farmer"
   },
   {
     "objectID": "about.html",
@@ -70,18 +77,18 @@
     "text": "Contact Info\n\n Cell: +1 415-948-8277\n Email: seth.b.morgan@outlook.com\n GitHub: https://github.com/sbmorgan\n LinkedIn: https://www.linkedin.com/in/sethbmorgan/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seth Brosey Morgan",
+    "objectID": "farmlife.html",
+    "href": "farmlife.html",
+    "title": "Farm Life",
     "section": "",
-    "text": "data analyst | programmer | farmer"
+    "text": "Instagram\n\nFacebook\n[Market Gardening]\n[Berries]\n[Hops]\n[Farmers Markets]\n[Creatures]"
   },
   {
-    "objectID": "photography/in_the_green_pnw.html",
-    "href": "photography/in_the_green_pnw.html",
-    "title": "In the Green (The Pacific Northwest)",
+    "objectID": "photography/scapes/cityscapes.html",
+    "href": "photography/scapes/cityscapes.html",
+    "title": "Cityscapes",
     "section": "",
-    "text": "Portland Japanese Garden, Portland, OR\n\nPortland Japanese Garden, Portland, OR"
+    "text": "Golden Gate Bridge, San Francisco, CA\n\nThe Painted Ladies/Downtown, San Francisco, CA\n\nLake Merritt, Oakland, CA\n\nWashington State Capitol Building, Olympia, WA\n\nKyoto, Japan"
   },
   {
     "objectID": "photography/the_buckeye_state.html",
