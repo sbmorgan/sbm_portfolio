@@ -1,7 +1,14 @@
 ---
 title: "The Buckeye State"
+listing:
+  contents: "the_buckeye_state/*.qmd"
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
 ---
-
-![](/images/IMG_6653.jpg)
-
-Hocking Hills State Park, Hocking County, OH

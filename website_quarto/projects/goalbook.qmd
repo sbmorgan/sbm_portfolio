@@ -1,7 +1,7 @@
 ---
-title: "Nature"
+title: "Goalbook"
 listing:
-  contents: "nature/*.qmd"
+  contents: tbf
   type: grid
   fields: 
     - title
