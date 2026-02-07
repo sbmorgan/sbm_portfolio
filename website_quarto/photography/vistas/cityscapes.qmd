@@ -2,10 +2,6 @@
 title: "Cityscapes"
 ---
 
-![](/images/IMG_3641.jpg)
-
-Golden Gate Bridge, San Francisco, CA
-
 ![](/images/IMG_4115.jpg)
 
 The Painted Ladies/Downtown, San Francisco, CA
@@ -14,10 +10,14 @@ The Painted Ladies/Downtown, San Francisco, CA
 
 Lake Merritt, Oakland, CA
 
-![](images/clipboard-2692775094.jpeg)
+![](images/IMG_4248.jpg)
 
 Washington State Capitol Building, Olympia, WA
 
-![](/images/IMG_9735.jpg)
+![](images/IMG_8849-3.jpg)
 
 Kyoto, Japan
+
+![](images/IMG_6152.jpg)
+
+Naturhistorisches Museum, Vienna, Austria
