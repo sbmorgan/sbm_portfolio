@@ -12,15 +12,3 @@ listing:
   categories: true
   sort: "date desc"
 ---
-
-\[Data Cleaning- GoalBook\]
-
-\*Selected past projects:
-
-\[Selected Mathematica projects\]
-
-\*R Packages:
-
-\[TidyFarm\]
-
-\[DataClean\]
