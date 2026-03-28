@@ -1,5 +1,5 @@
 ---
-title: "Coding projects"
+title: "Projects"
 listing:
   contents: projects
   type: grid
