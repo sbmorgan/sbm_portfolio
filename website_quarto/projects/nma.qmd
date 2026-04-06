@@ -1,5 +1,6 @@
 ---
 title: "Exploring the Relative Value of Combinations of Instructional Practices in Mathematics Interventions for Grades K–6: An Exploratory Network Meta-Analysis"
+image: "https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/images/nma_network_graph_icW_allnodes.png?raw=true"
 ---
 
 This project develops cutting-edge standard and component network meta-analyses (NMA) of multicomponent mathematics interventions to identify instructional practices associated with improved outcomes for students with or at risk for disabilities in Grades K–6 in the United States. A first in its field, this project applies the metafor R package, principally developed for conducting NMAs of clinical psychology data with few data dependencies, to complex educational data with multiple dependencies.
@@ -19,7 +20,8 @@ Fitting an NMA for outcomes in the Whole Numbers domain:
                           data=NMA_data_analysis_subset_grpID_icW)     
     summary(res_mod_icW) 
 ```
-![](/images/NMA output by ic_allnodes_WN.png)
+
+![](/images/NMA%20output%20by%20ic_allnodes_WN.png)
 
 Creating the network diagram for the Whole Numbers domain:
 
@@ -122,4 +124,3 @@ Creating the forest plot for the Whole Numbers domain:
 ```
 
 ![](/images/nma_forest_plot_icW_allnodes.png)
-

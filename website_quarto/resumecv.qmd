@@ -11,4 +11,4 @@ output:
 #knit: pagedown::chrome_print
 ---
 
-## <iframe src="documents/CV_Seth_B_Morgan_2026_portfolio.pdf" width="100%" height="600px"></iframe>
+## <iframe src="documents/resume_Seth_B_Morgan_2026.pdf" width="100%" height="600px"></iframe>
