@@ -9,6 +9,6 @@ listing:
     - date
     - image
     - categories
-  categories: true
+  categories: false
   sort: "date desc"
 ---

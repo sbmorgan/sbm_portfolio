@@ -5,6 +5,8 @@ image: "https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/image
 
 This project develops cutting-edge standard and component network meta-analyses (NMA) of multicomponent mathematics interventions to identify instructional practices associated with improved outcomes for students with or at risk for disabilities in Grades K–6 in the United States. A first in its field, this project applies the metafor R package, principally developed for conducting NMAs of clinical psychology data with few data dependencies, to complex educational data with multiple dependencies.
 
+The R program I developed for a client to execute a novel network meta-analysis (NMA) of multicomponent mathematics interventions to identify instructional practices associated with improved outcomes for Grade K-6 students with or at risk for disabilities using the {metafor} package.
+
 R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
 
 Code snippets:

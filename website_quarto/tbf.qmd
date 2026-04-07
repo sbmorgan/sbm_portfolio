@@ -10,16 +10,18 @@ listing:
     - date
     - image
     - categories
-  categories: true
+  categories: false
   sort: "date desc"
 ---
 
-Follow us online at: 
+::: {.column-margin}
+![](https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/images/the_brosey_farm_qr.png?raw=true){width=120px}
+:::
 
-- {{< fa laptop size=2x >}} Our website:  [thebroseyfarm.com](https://thebroseyfarm.com)
+Follow us online at:
 
-- {{< fa brands facebook size=2x >}} [Facebook](https://www.facebook.com/profile.php?id=61558245772097)
+-   {{< fa laptop size=2x >}} Our website: [thebroseyfarm.com](https://thebroseyfarm.com)
 
-- {{< fa brands instagram size=2x >}} [Instagram](https://www.instagram.com/the_brosey_farm/)
+-   {{< fa brands facebook size=2x >}} [Facebook](https://www.facebook.com/profile.php?id=61558245772097)
 
-![](images/the_brosey_farm_qr.png){width="150px" style="margin-left:40px"}
+-   {{< fa brands instagram size=2x >}} [Instagram](https://www.instagram.com/the_brosey_farm/)

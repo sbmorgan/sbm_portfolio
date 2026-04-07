@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-description','listing-date','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -185,11 +185,11 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -210,13 +210,15 @@ window.Quarto = {
 </header>
 
 
-<p>Follow us online at:</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/images/the_brosey_farm_qr.png?raw=true" class="img-fluid" width="120"></p>
+</div></div><p>Follow us online at:</p>
 <ul>
 <li><p><i class="fa-solid fa-laptop fa-2x" aria-label="laptop"></i> Our website: <a href="https://thebroseyfarm.com">thebroseyfarm.com</a></p></li>
 <li><p><i class="fa-brands fa-facebook fa-2x" aria-label="facebook"></i> <a href="https://www.facebook.com/profile.php?id=61558245772097">Facebook</a></p></li>
 <li><p><i class="fa-brands fa-instagram fa-2x" aria-label="instagram"></i> <a href="https://www.instagram.com/the_brosey_farm/">Instagram</a></p></li>
 </ul>
-<p><img src="images/the_brosey_farm_qr.png" class="img-fluid" style="margin-left:40px" width="150"></p>
 
 
 
