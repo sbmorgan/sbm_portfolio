@@ -7,8 +7,8 @@
     "text": "Follow us online at:\n\n Our website: thebroseyfarm.com\n Facebook\n Instagram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBerries\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreatures\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarmers Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\nHops\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarket Gardening\n\n\n\n\n\n\n\n\n\n\n\n\n\nRestoration Projects\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/goalbook.html",
-    "href": "projects/goalbook.html",
+    "objectID": "projects/convert.html",
+    "href": "projects/convert.html",
     "title": "Goalbook",
     "section": "",
     "text": "No matching items"
@@ -39,14 +39,21 @@
     "href": "about.html",
     "title": "Seth B. Morgan",
     "section": "",
-    "text": "starting in rural sw oh -&gt; nursery work -&gt; Spanish and travel -&gt; nursery to development -&gt; masters -&gt; proferssional analyst/programmer at Mathematica, ag first then also education -&gt; personal consultancy + farm development\n{My weekly languages include R and Stata}\n{Quantitative data analyst with nearly 15 years’ experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.}\n\nMy full CV"
+    "text": "I grew up in a small rural town in SW Ohio working at a local tree and shrub nursery during the summers between academic grade school years. My love of education and plants led to a B.S. in Agriculture (major: Agribusiness & Applied Economics) with minors in horticulture and Spanish from The Ohio State University in 2001.\nDuring my last year at Ohio State, I studied abroad in Guanajuato, Mexico during which time I became interested in international development. After a few years working in the nursery industry after completing my undergraduate degree, I decided to return to Latin America to work for Guatemalan NGOs working in the education and agariculture sectors. After this stint abroad, I went on to earn a M.A. in International & Development Economics from the University of San Francisco in 2008, which included overseas field study in Huehuetenango, Guatemala. I subsequently presented my master’s thesis developed from this filed study at the Pacific Conference for Development Economics (PacDev) at the Univerity of California San Diego (UCSD).\nAfter completing my graduate degree, my career intially focused on evaluating international development programs in the education and agriculture sectors, particularly data analysis using Stata at the research consultancy firm Mathematica (https://www.mathematica.org/). However, to more comprehensively contibute to the evaluation designs of these evaluation projects, I became certified in What Works Clearinghouse group design standards in 2014 which expanded my work portfolio to include the evaluation of domestic education public policy and WWC systematic review efforts funded by the Institute of Ecuation Sciences (IES) for the development practice guides, evidence-based recommendations for educators to improve student outcomes (https://ies.ed.gov/ncee/WWC/Search/Products?productType=1).\nAbout 3 years ago I decided to transition to perform my portfolio of work as a freelance consultant to have more time and flexibility to work on restoring my family’s legacy farm, The Brosey Farm, which I purchased upon my grandmother’s passing roughly 5 years ago. [Current R projects -&gt; title link in portfolio]\nMy full CV can be found here"
   },
   {
     "objectID": "about.html#bio",
     "href": "about.html#bio",
     "title": "Seth B. Morgan",
     "section": "",
-    "text": "starting in rural sw oh -&gt; nursery work -&gt; Spanish and travel -&gt; nursery to development -&gt; masters -&gt; proferssional analyst/programmer at Mathematica, ag first then also education -&gt; personal consultancy + farm development\n{My weekly languages include R and Stata}\n{Quantitative data analyst with nearly 15 years’ experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.}\n\nMy full CV"
+    "text": "I grew up in a small rural town in SW Ohio working at a local tree and shrub nursery during the summers between academic grade school years. My love of education and plants led to a B.S. in Agriculture (major: Agribusiness & Applied Economics) with minors in horticulture and Spanish from The Ohio State University in 2001.\nDuring my last year at Ohio State, I studied abroad in Guanajuato, Mexico during which time I became interested in international development. After a few years working in the nursery industry after completing my undergraduate degree, I decided to return to Latin America to work for Guatemalan NGOs working in the education and agariculture sectors. After this stint abroad, I went on to earn a M.A. in International & Development Economics from the University of San Francisco in 2008, which included overseas field study in Huehuetenango, Guatemala. I subsequently presented my master’s thesis developed from this filed study at the Pacific Conference for Development Economics (PacDev) at the Univerity of California San Diego (UCSD).\nAfter completing my graduate degree, my career intially focused on evaluating international development programs in the education and agriculture sectors, particularly data analysis using Stata at the research consultancy firm Mathematica (https://www.mathematica.org/). However, to more comprehensively contibute to the evaluation designs of these evaluation projects, I became certified in What Works Clearinghouse group design standards in 2014 which expanded my work portfolio to include the evaluation of domestic education public policy and WWC systematic review efforts funded by the Institute of Ecuation Sciences (IES) for the development practice guides, evidence-based recommendations for educators to improve student outcomes (https://ies.ed.gov/ncee/WWC/Search/Products?productType=1).\nAbout 3 years ago I decided to transition to perform my portfolio of work as a freelance consultant to have more time and flexibility to work on restoring my family’s legacy farm, The Brosey Farm, which I purchased upon my grandmother’s passing roughly 5 years ago. [Current R projects -&gt; title link in portfolio]\nMy full CV can be found here"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Seth B. Morgan",
+    "section": "Education",
+    "text": "Education\n\nM.A. in International & Development Economics, University of San Francisco, 2008\nB.S. in Agriculture (Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish), The Ohio State University, 2001"
   },
   {
     "objectID": "about.html#notable-skills",
@@ -56,11 +63,11 @@
     "text": "Notable skills\n\nStatistical Data Analysis · Statistical Programming (Stata, R)\nEvaluation Design · Impact Analysis · Meta-analysis · Systematic Reviews\nOrganic market farming · Farm business development · Sustainable agriculture\nSpanish (read, write, and speak proficiently)"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
     "title": "Seth B. Morgan",
-    "section": "Education",
-    "text": "Education\n\nM.A. in International & Development Economics, University of San Francisco, 2008\nB.S. in Agriculture (Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish), The Ohio State University, 2001"
+    "section": "Certifications",
+    "text": "Certifications\n\nHuman Subjects Research – Social-Behavioral-Educational (SBE) Foundations CITI Program- Issued Dec 2025 · Expires Dec 2026\nWWC Reviewer Certification, Single-Case Design Standards (SCD), Version 5.0 What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued Apr 2024\nWWC Reviewer Certification, Group Design Standards (GDS), Version 5.0 What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued May 2023\nWWC Reviewer Certification, Regression Discontinuity Design (RDD) Standards, Version 4.1 What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued May 2022\nCertified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)"
   },
   {
     "objectID": "about.html#contact-info",
@@ -135,9 +142,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Coding Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n \n\n\n\nCategories\n\n\n\n\n\n\n\n\nGoalbook\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\nExploring the Relative Value of Combinations of Instructional Practices in Mathematics Interventions for Grades K–6: An Exploratory Network Meta-Analysis\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\nThe Brosey Farm- Crop & Harvest Analysis\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "Goalbook\n\n\n\n\n\n\n\n\n\n\n\n\nExploring the Relative Value of Combinations of Instructional Practices in Mathematics Interventions for Grades K–6: An Exploratory Network Meta-Analysis\n\n\n\n\n\n\n\n\n\n\n\n\nThe Brosey Farm- Crop & Harvest Analysis\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resumecv_old.html#contact",

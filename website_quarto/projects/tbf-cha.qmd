@@ -1,5 +1,6 @@
 ---
 title: "The Brosey Farm- Crop & Harvest Analysis"
+image: "https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/images/Presentation123.jpg?raw=true"
 ---
 
 ![](/images/Presentation123.jpg)

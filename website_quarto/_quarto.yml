@@ -8,9 +8,9 @@ website:
       - href: about.qmd
         text: About
       - href: resumecv.qmd
-        text: CV
+        text: Resume
       - href: projects.qmd
-        text: Projects
+        text: Coding Projects
       - href: tbf.qmd
         text: The Brosey Farm
       - href: photography.qmd

@@ -1,5 +1,6 @@
 ---
 title: "The Brosey Farm"
+image: "https://github.com/sbmorgan/sbm_portfolio/blob/main/website_quarto/images/the_brosey_farm_qr.png?raw=true"
 listing:
   contents: tbf
   type: grid

@@ -11,7 +11,7 @@
     ]
   },
   {
-    "listing": "/projects/goalbook.html",
+    "listing": "/projects/convert.html",
     "items": []
   },
   {
@@ -64,7 +64,7 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/goalbook.html",
+      "/projects/convert.html",
       "/projects/nma.html",
       "/projects/tbf-cha.html"
     ]

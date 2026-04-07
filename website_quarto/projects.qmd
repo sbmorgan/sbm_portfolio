@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+title: "Coding Projects"
 listing:
   contents: projects
-  type: table
+  type: grid
   fields:
     - title
     - date

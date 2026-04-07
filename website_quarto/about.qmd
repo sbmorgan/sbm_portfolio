@@ -1,19 +1,30 @@
 ---
 #title: "About"
-image: images/IMG_1290.jpg
 # about:
 #   template: jolla
+format:
+  html:
+    page-layout: article
+
 ---
 
 ## Bio
 
-starting in rural sw oh -\> nursery work -\> Spanish and travel -\> nursery to development -\> masters -\> proferssional analyst/programmer at Mathematica, ag first then also education -\> personal consultancy + farm development
+I grew up in a small rural town in SW Ohio working at a local tree and shrub nursery during the summers between academic grade school years. My love of education and plants led to a B.S. in Agriculture (major: Agribusiness & Applied Economics) with minors in horticulture and Spanish from The Ohio State University in 2001. 
 
-{My weekly languages include R and Stata}
+During my last year at Ohio State, I studied abroad in Guanajuato, Mexico during which time I became interested in international development. After a few years working in the nursery industry after completing my undergraduate degree, I decided to return to Latin America to work for Guatemalan NGOs working in the education and agariculture sectors. After this stint abroad, I went on to earn a M.A. in International & Development Economics from the University of San Francisco in 2008, which included overseas field study in Huehuetenango, Guatemala. I subsequently presented my master’s thesis developed from this filed study at the Pacific Conference for Development Economics (PacDev) at the Univerity of California San Diego (UCSD). 
 
-{Quantitative data analyst with nearly 15 years' experience researching and evaluating U.S. public policy and international development programs in the education and agriculture sectors requiring advanced data analysis, statistical programming, evaluation design, econometric, and technical writing skills. I am also the owner of The Brosey Farm, an Ohio Century Farm started by my family in 1842.}\
-\
-[My full CV](documents/resume_Seth_B_Morgan_2026.pdf){target="_blank"}
+After completing my graduate degree, my career intially focused on evaluating international development programs in the education and agriculture sectors, particularly data analysis using Stata at the research consultancy firm Mathematica (https://www.mathematica.org/). However, to more comprehensively contibute to the evaluation designs of these evaluation projects, I became certified in What Works Clearinghouse group design standards in 2014 which expanded my work portfolio to include the evaluation of domestic education public policy and WWC systematic review efforts funded by the Institute of Ecuation Sciences (IES) for the development practice guides, evidence-based recommendations for educators to improve student outcomes (https://ies.ed.gov/ncee/WWC/Search/Products?productType=1). 
+
+About 3 years ago I decided to transition to perform my portfolio of work as a freelance consultant to have more time and flexibility to work on restoring my family's legacy farm, The Brosey Farm, which I purchased upon my grandmother's passing roughly 5 years ago. [Current R projects -> title link  in portfolio]
+
+My full CV can be found [here](documents/resume_Seth_B_Morgan_2026.pdf){target="_blank"}
+
+## Education
+
+-   M.A. in International & Development Economics, University of San Francisco, 2008
+
+-   B.S. in Agriculture (Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish), The Ohio State University, 2001
 
 ## Notable skills
 
@@ -25,11 +36,21 @@ starting in rural sw oh -\> nursery work -\> Spanish and travel -\> nursery to d
 
 -   Spanish (read, write, and speak proficiently)
 
-## Education
+## Certifications
 
--   M.A. in International & Development Economics, University of San Francisco, 2008
+-   Human Subjects Research – Social-Behavioral-Educational (SBE) Foundations
+    CITI Program- Issued Dec 2025 · Expires Dec 2026
 
--   B.S. in Agriculture (Major: Agribusiness & Applied Economics; Minors: Horticulture, Spanish), The Ohio State University, 2001
+-   WWC Reviewer Certification, Single-Case Design Standards (SCD), Version 5.0
+    What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued Apr 2024
+
+-   WWC Reviewer Certification, Group Design Standards (GDS), Version 5.0
+    What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued May 2023
+
+-   WWC Reviewer Certification, Regression Discontinuity Design (RDD) Standards, Version 4.1
+    What Works Clearinghouse (WWC), Institute of Education Sciences (IES)- Issued May 2022
+
+-   Certified Evidence Reviewer, Home Visiting Evidence of Effectiveness Review (HomVEE)
 
 ## Contact Info
 
