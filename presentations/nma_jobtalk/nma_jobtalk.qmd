@@ -1,0 +1,68 @@
+---
+title: "nma_jobtalk"
+author: "Seth B. Morgan"
+format:
+  html:
+    theme: flatly
+    toc: true
+editor: visual
+self-contained: true
+---
+
+# Network Meta-analysis
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Overview
+
+-project description
+
+-goals
+
+-role
+
+-findings
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+## metafor R package
+
+R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
+
+Code snippets:
+
+Fitting an NMA for outcomes in the Whole Numbers domain:
+
+``` r
+    ### Fit NMA model assuming consistency (tau^2_omega=0)     
+    res_mod_icW <- rma.mv(effect_size, V_list,                              
+                          mods = ~ FF + FF.RS + NL.FF.RS + NL.RS + RS + VF.FF.RS + VF.RS - 1, # BAU is excluded to serve as reference level
+                          random = ~ 1 | record_id/es_id,                              
+                          rho=0.60,                              
+                          data=NMA_data_analysis_subset_grpID_icW)     
+    summary(res_mod_icW) 
+```
+## Outputs
+
+-Forest plots
+
+![](/images/nma_network_graph_icW_allnodes.png)
+
+-Network diagram
+
+![](/images/nma_network_graph_icW_allnodes.png)
+
+-League table (?)
