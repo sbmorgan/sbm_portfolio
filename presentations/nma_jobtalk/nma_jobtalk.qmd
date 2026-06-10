@@ -1,5 +1,5 @@
 ---
-title: "A data analytics project in R- presented to ODEW"
+title: "A data analytics project in R"
 author: "Seth B. Morgan"
 format:
   html:
@@ -11,9 +11,10 @@ editor: visual
 self-contained: true
 ---
 
+::: panel-tabset
 ## Project overview
 
-> ### Project description:
+### Project description
 
 > - [Title]{.underline}: A Network Meta-Analysis of Interventions for Students Struggling with Mathematics in Grades K-6
 
@@ -23,7 +24,7 @@ self-contained: true
 
 > - [Significance]{.underline}: Provides evidence to stakeholders on the comparative effectiveness of multicomponent mathematics interventions, particularly amongst struggling students.
 
-> ### Goals:
+### Goals
 
 > - **RQ: *Which types of multicomponent mathematics interventions most improve math outcomes amongst grade school students struggling in math?***
 
@@ -31,7 +32,7 @@ self-contained: true
 
 > - Disseminate findings to educators, administrators, and other key decision makers and stakeholders.
 
-> ### Steps:
+### Steps
 
 > 1)  [Systematic review]{.underline}:\
 >     Conduct a systematic review of relevant research to identify high-quality, credible research to be included in the meta-analysis synthesis.
@@ -41,7 +42,7 @@ self-contained: true
 
 > 3)  [Component network-analysis (CNMA):]{.underline} Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes.
 
-> ### Role:
+### Role
 
 > - Co-led project with [Instructional Research Group](https://www.inresg.org/) & Dean of the College of Education at University of Oregon.
 
@@ -56,7 +57,7 @@ self-contained: true
 
 ## Methodology
 
-> ### Systematic review
+### Systematic review
 
 > - Identify relevant group‑design studies (studies that compare student-level outcomes for an intervention group against a comparison group) that estimate the effect of a multicomponent mathematics intervention on student-level math outcomes amongst grade schoolers struggling with math.
 
@@ -64,9 +65,9 @@ self-contained: true
 
 > - Each finding has been converted to a standardized measure of intervention effects, known as an effect size, so that outcomes measures on different scales can be synthesized on a common scale.
 
-> - Analysis database is therefore comprised of student-level outcomes (as effect sizes) nested within study contrasts and studies. (45 studies; 77 contrasts; 300 unique student-level effect estimates)
+> - Analysis database is therefore comprised of student-level outcomes (as effect sizes) nested within multiple study contrasts (arms) and multiple studies. (45 studies; 77 contrasts; 300 unique student-level effect estimates)
 
-> ### Network meta-analysis
+### Network meta-analysis
 
 > - ***Meta-analysis***
 >   - Meta‑analysis is a quantitative synthesis method that combines effect sizes from multiple independent studies to estimate a pooled average effect with greater precision than any single study.
@@ -74,7 +75,7 @@ self-contained: true
 
 > - ***Network meta-analysis (NMA)***
 >   - Network meta‑analysis (NMA) extends this by comparing three or more interventions simultaneously within a connected evidence network.
->   - NMA synthesizes in a single analysis both direct evidence (head‑to‑head trials) and indirect evidence.
+>   - NMA can synthesize in a single analysis both direct evidence (head‑to‑head trials) and indirect evidence across multiple comparisons.
 >   - For example: A vs. C inferred through the connection (network) of A vs. B and B vs. C, allowing estimation of all pairwise effects even when some comparisons have never been tested directly.
 
 > - ***Advantages of NMA***:
@@ -84,18 +85,32 @@ self-contained: true
 >   - <u>Greater precision</u> — combining direct & indirect evidence expands the evidence base providing greater analytical precision in estimation.
 >   - <u>Efficient use of sparse evidence</u> — leverages all available comparisons, even when direct evidence is limited.
 
+::: columns
+::: column
+::: {.text-center}
+> ![](/images/direct_evidence.png){width="45%"}
+::: 
+::: 
+
+::: column
+::: {.text-center}
+![](/images/indirect_evidence.png){width="60%"}
+:::
+:::
+:::
+
 > - ***Challenges with education data***
 >   - Dependencies in education meta‑analysis—multiple measures nested within contrasts (study arms) nested within studies—create correlated sampling errors, which biases model estimates if ignored in the analysis
 >   - The R package *netmeta* assumes independence and therefore struggles with the multi‑level, multi‑measure data typical in education research
 >   - The function ***rma.mv()*** of the *metafor* package can model those dependencies directly, making it better suited for NMA in such contexts.
 
-> ### metafor::rma.mv()
+### metafor::rma.mv()
 
 > - [*metafor*](https://wviechtb.github.io/metafor/index.html)- a comprehensive collection of functions for conducting meta-analyses in R (author: Wolfgang Viechtbauer)
 
 > - [**rma.mv()**](https://wviechtb.github.io/metafor/reference/rma.mv.html)- a function to fit meta-analytic multivariate/multilevel fixed- and random/mixed-effects models with or without moderators via linear (mixed-effects) models.
 
-> ### Fitting the NMA ###:
+### Fitting the NMA
 
 > - Interventions enter the analysis model as contrast-coded moderators (1, 0, -1).
 
@@ -104,6 +119,10 @@ self-contained: true
 > - The fitted moderator coefficients become the pooled relative effects between interventions—estimated simultaneously using all direct and indirect evidence.
 
 > - Interventions are component‑coded, meaning any interventions that share the same combination of instructional components enter the model under the same moderator. This approach identifies which component combinations are most effective and improves interpretability by reducing the noise created by many nominally different but structurally similar interventions.
+
+> - "Business as usual" (BAU) serves as the reference category meaning the estimated coefficient on each moderator reflects how much more or less effective a given intervention (combination of instructional practices) is relative to BAU (measured in standard deviations).
+
+> - Larger coefficients—especially those estimated with greater precision—are ranked as more effective in the p‑score framework, which synthesizes both the magnitude of the estimated advantage over BAU and the certainty around that estimate.
 
 ``` r
     ### Fit NMA model to outcomes in the Whole Numbers domain   
@@ -116,17 +135,17 @@ self-contained: true
 
 ## Findings
 
-> ### Forest plots
+### Forest plots
 
 > > Whole Numbers domain:
 
-![](/images/nma_forest_plot_icW_allnodes.png)
+![](/images/nma_forest_plot_icW_allnodes.png){width="75%"}
 
 <!-- Rational Numbers domain: -->
 
 <!-- ![](/images/nma_forest_plot_icR_allnodes.png) -->
 
-> ### Network diagram
+### Network diagram
 
 > > Whole Numbers domain:
 
@@ -136,7 +155,7 @@ self-contained: true
 
 <!-- ![](/images/nma_network_graph_icR_allnodes_v2.png) -->
 
-> ### Dissemination
+### Dissemination
 
 > - Publication (in press) in journal [Review of Education Research](https://www.aera.net/Publications/Journals/Review-of-Educational-Research):
 
@@ -159,3 +178,4 @@ self-contained: true
                             data=cNMA_data_analysis_subset_grpID_icW)
     summary(res_mod_icW_cnma)      
 ```
+:::
