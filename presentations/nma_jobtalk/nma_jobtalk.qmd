@@ -11,16 +11,17 @@ editor: visual
 self-contained: true
 ---
 
-::: panel-tabset
+::::::::::: panel-tabset
 ## Project overview
 
+::: panel-tabset
 ### Project description
 
 > - [Title]{.underline}: A Network Meta-Analysis of Interventions for Students Struggling with Mathematics in Grades K-6
 
 > - [Purpose]{.underline}: Identify which multicomponent mathematics interventions are most associated with improved math outcomes amongst struggling students.
 
-> - [Method]{.underline}: The project uses a network meta-analysis to estimate and rank the relative impact of multicomponent mathematics interventions on student-level math outcomes in a single analysis model.
+> - [Method]{.underline}: The project fits a network meta-analysis of relevant systematically reviewed research findings to estimate and rank the relative impact of multicomponent mathematics interventions on student-level math outcomes.
 
 > - [Significance]{.underline}: Provides evidence to stakeholders on the comparative effectiveness of multicomponent mathematics interventions, particularly amongst struggling students.
 
@@ -38,9 +39,10 @@ self-contained: true
 >     Conduct a systematic review of relevant research to identify high-quality, credible research to be included in the meta-analysis synthesis.
 
 > 2)  [Network meta-analysis (NMA):]{.underline}\
->     Fit a network meta-analysis to the student-level outcomes of this research to identify the instructional practice combinations most associated with improved outcomes.
+>     Fit a network meta-analysis to the student-level outcomes of this research to identify the instructional practice combinations most associated with improved outcomes. -> disseminate findings in journal article
 
-> 3)  [Component network-analysis (CNMA):]{.underline} Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes.
+> 3)  [Component network meta-analysis (CNMA):]{.underline}\
+      Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes. -> create tutorial for public access
 
 ### Role
 
@@ -54,9 +56,11 @@ self-contained: true
 >   - ***Domain knowledge***: Deep K–12 and postsecondary domain knowledge built through long term design, analysis, and review of education studies.
 >   - ***Trained in research evaluation standards and statistical methods***: Certified WWC reviewer for over a decade conducting systematic reviews, calculating and synthesizing effect sizes, and producing WWC products such as intervention reports and practice guides.
 >   - ***Experienced statistical programmer***: Advanced Stata and R programming for data processing, analysis, and reporting.
+:::
 
 ## Methodology
 
+:::::::: panel-tabset
 ### Systematic review
 
 > - Identify relevant group‑design studies (studies that compare student-level outcomes for an intervention group against a comparison group) that estimate the effect of a multicomponent mathematics intervention on student-level math outcomes amongst grade schoolers struggling with math.
@@ -65,7 +69,7 @@ self-contained: true
 
 > - Each finding has been converted to a standardized measure of intervention effects, known as an effect size, so that outcomes measures on different scales can be synthesized on a common scale.
 
-> - Analysis database is therefore comprised of student-level outcomes (as effect sizes) nested within multiple study contrasts (arms) and multiple studies. (45 studies; 77 contrasts; 300 unique student-level effect estimates)
+> - Analysis database is therefore comprised of student-level outcomes (as effect sizes) nested within study contrasts (arms) nested within studies: 300 unique student-level effect estimates (from dozens of different outcome measures); within 77 contrasts; within 45 studies (evaluating a dozen of different interventions).
 
 ### Network meta-analysis
 
@@ -85,44 +89,33 @@ self-contained: true
 >   - <u>Greater precision</u> — combining direct & indirect evidence expands the evidence base providing greater analytical precision in estimation.
 >   - <u>Efficient use of sparse evidence</u> — leverages all available comparisons, even when direct evidence is limited.
 
-::: columns
-::: column
-::: {.text-center}
+::::::: columns
+:::: column
+::: text-center
 > ![](/images/direct_evidence.png){width="45%"}
-::: 
-::: 
+:::
+::::
 
-::: column
-::: {.text-center}
+:::: column
+::: text-center
 ![](/images/indirect_evidence.png){width="60%"}
 :::
-:::
-:::
+::::
+:::::::
+
+### Fitting the NMA
 
 > - ***Challenges with education data***
 >   - Dependencies in education meta‑analysis—multiple measures nested within contrasts (study arms) nested within studies—create correlated sampling errors, which biases model estimates if ignored in the analysis
 >   - The R package *netmeta* assumes independence and therefore struggles with the multi‑level, multi‑measure data typical in education research
->   - The function ***rma.mv()*** of the *metafor* package can model those dependencies directly, making it better suited for NMA in such contexts.
+>   - The function [**rma.mv()**](https://wviechtb.github.io/metafor/reference/rma.mv.html) of the [*metafor*](https://wviechtb.github.io/metafor/index.html) package can model those dependencies directly, making it better suited for NMA in such contexts.\
 
-### metafor::rma.mv()
-
-> - [*metafor*](https://wviechtb.github.io/metafor/index.html)- a comprehensive collection of functions for conducting meta-analyses in R (author: Wolfgang Viechtbauer)
-
-> - [**rma.mv()**](https://wviechtb.github.io/metafor/reference/rma.mv.html)- a function to fit meta-analytic multivariate/multilevel fixed- and random/mixed-effects models with or without moderators via linear (mixed-effects) models.
-
-### Fitting the NMA
-
-> - Interventions enter the analysis model as contrast-coded moderators (1, 0, -1).
-
-> - Entering contrast‑coded intervention columns as moderators in **rma.mv()** turns the model into a network meta‑analysis because the moderator structure encodes the entire treatment network.
-
-> - The fitted moderator coefficients become the pooled relative effects between interventions—estimated simultaneously using all direct and indirect evidence.
-
-> - Interventions are component‑coded, meaning any interventions that share the same combination of instructional components enter the model under the same moderator. This approach identifies which component combinations are most effective and improves interpretability by reducing the noise created by many nominally different but structurally similar interventions.
-
-> - "Business as usual" (BAU) serves as the reference category meaning the estimated coefficient on each moderator reflects how much more or less effective a given intervention (combination of instructional practices) is relative to BAU (measured in standard deviations).
-
-> - Larger coefficients—especially those estimated with greater precision—are ranked as more effective in the p‑score framework, which synthesizes both the magnitude of the estimated advantage over BAU and the certainty around that estimate.
+> - ***metafor::rma.mv()***
+>   - Interventions enter the analysis model as contrast-coded moderators (1, 0, -1) which encodes the entire treatment network and therefore turns the model into a network meta‑analysis.
+>   - Interventions are component‑coded, meaning any interventions that share the same combination of instructional components enter the model under the same moderator. This approach identifies which component combinations are most effective and improves interpretability by reducing the noise created by many nominally different but structurally similar interventions.
+>   - The fitted moderator coefficients become the pooled relative effects between interventions—estimated simultaneously using all direct and indirect evidence.
+>   - "Business as usual" (BAU) serves as the reference category meaning the estimated coefficient on each moderator reflects how much more or less effective a given intervention (combination of instructional practices) is relative to BAU (measured in standard deviations).
+>   - Larger coefficients—especially those estimated with greater precision—are ranked as more effective in the p‑score framework, which synthesizes both the magnitude of the estimated advantage over BAU and the certainty around that estimate.
 
 ``` r
     ### Fit NMA model to outcomes in the Whole Numbers domain   
@@ -132,28 +125,30 @@ self-contained: true
                           rho=0.60,                              
                           data=NMA_data_analysis_subset_grpID_icW)     
 ```
+::::::::
 
 ## Findings
 
-### Forest plots
+::: panel-tabset
+### Whole Numbers domain
 
-> > Whole Numbers domain:
+> > Forest plot:
 
 ![](/images/nma_forest_plot_icW_allnodes.png){width="75%"}
 
-<!-- Rational Numbers domain: -->
-
-<!-- ![](/images/nma_forest_plot_icR_allnodes.png) -->
-
-### Network diagram
-
-> > Whole Numbers domain:
+> > Network diagram:
 
 ![](/images/nma_network_graph_icW_allnodes_v2.png)
 
-<!-- Rational Numbers domain: -->
+### Rational Numbers domain
 
-<!-- ![](/images/nma_network_graph_icR_allnodes_v2.png) -->
+> > Forest plot:
+
+![](/images/nma_forest_plot_icR_allnodes.png){width="75%"}
+
+> > Network diagram:
+
+![](/images/nma_network_graph_icR_allnodes_v2.png)
 
 ### Dissemination
 
@@ -161,13 +156,14 @@ self-contained: true
 
 > Jayanthi, M., Krowka, S., Schumacher, R. F., Morgan, S. B., Newman-Gonchar, R., Schweer-Collins, M., & Gersten, R. (2026) *Exploring the relative value of combinations of instructional practices in mathematics interventions for grades K–6: An exploratory network meta-analysis.* Review of Educational Research. \[Article in Press\]
 
-> - R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
+> - R script on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
+:::
 
 ## Next Steps
 
 > - CNMA: Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes.
 
-> - R code on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/cNMA/cNMA_metafor_allnodes_ic.R)
+> - R script on GitHub: [CNMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/cNMA/cNMA_metafor_allnodes_ic.R)
 
 ``` r
     ### Fit an additive CNMA model to outcomes in the Whole Numbers domain   
@@ -178,4 +174,4 @@ self-contained: true
                             data=cNMA_data_analysis_subset_grpID_icW)
     summary(res_mod_icW_cnma)      
 ```
-:::
+:::::::::::
