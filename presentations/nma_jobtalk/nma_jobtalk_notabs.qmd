@@ -11,10 +11,9 @@ editor: visual
 self-contained: true
 ---
 
-::::::::::: panel-tabset
 ## Project overview
 
-::: panel-tabset
+
 ### Project description
 
 > - [Title]{.underline}: A Network Meta-Analysis of Interventions for Students Struggling with Mathematics in Grades K-6
@@ -56,11 +55,11 @@ self-contained: true
 >   - ***Domain knowledge***: Deep K–12 and postsecondary domain knowledge built through long term design, analysis, and review of education studies.
 >   - ***Trained in research evaluation standards and statistical methods***: Certified WWC reviewer for over a decade conducting systematic reviews, calculating and synthesizing effect sizes, and producing WWC products such as intervention reports and practice guides.
 >   - ***Experienced statistical programmer***: Advanced Stata and R programming for data processing, analysis, and reporting.
-:::
+
 
 ## Methodology
 
-:::::::: panel-tabset
+
 ### Systematic review
 
 > - Identify relevant group‑design studies (studies that compare student-level outcomes for an intervention group against a comparison group) that estimate the effect of a multicomponent mathematics intervention on student-level math outcomes amongst grade schoolers struggling with math.
@@ -129,7 +128,7 @@ self-contained: true
 
 ## Findings
 
-::: panel-tabset
+
 ### Whole Numbers domain
 
 > > Forest plot:
@@ -157,7 +156,7 @@ self-contained: true
 > Jayanthi, M., Krowka, S., Schumacher, R. F., Morgan, S. B., Newman-Gonchar, R., Schweer-Collins, M., & Gersten, R. (2026) *Exploring the relative value of combinations of instructional practices in mathematics interventions for grades K–6: An exploratory network meta-analysis.* Review of Educational Research. \[Article in Press\]
 
 > - R script on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
-:::
+
 
 ## Next Steps
 
@@ -174,4 +173,4 @@ self-contained: true
                             data=cNMA_data_analysis_subset_grpID_icW)
     summary(res_mod_icW_cnma)      
 ```
-:::::::::::
+
