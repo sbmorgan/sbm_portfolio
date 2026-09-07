@@ -62,7 +62,7 @@ self-contained: true
 
 > - Keep only those studies that meet [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc) evaluation design and analysis standards (i.e., rigorous, high-quality studies).
 
-> - Each finding has been converted to a standardized measure of intervention effects, known as an effect size, so that outcomes measures on different scales can be synthesized on a common scale.
+> - Each finding has been converted to a standardized measure of intervention effects, known as an effect size, so that outcome measures on different scales can be synthesized on a common scale.
 
 > - Analysis database is therefore comprised of student-level outcomes (as effect sizes) nested within study contrasts (arms) nested within studies: 300 unique student-level effect estimates (from dozens of different outcome measures); within 77 contrasts; within 45 studies (evaluating a dozen of different interventions).
 
@@ -135,6 +135,10 @@ self-contained: true
 
 ![](/images/nma_network_graph_icW_allnodes_v2.png)
 
+**Forest plot and network diagram for the whole numbers network meta-analysis (WN-NMA).**
+
+Note. (A) Forest plot of all interventions versus the reference control, sorted by effect size. The effect estimates and confidence intervals incorporate both direct and indirect evidence from the network. p Scores indicate the ranking probability for each treatment, with higher scores representing a higher probability of being the most effective. (B) Network diagram of available direct comparisons. Node size is proportional to the number of participants, and connecting lines (edges) are proportional to the number of studies for each direct comparison.
+
 ### Rational Numbers domain
 
 > > Forest plot:
@@ -145,9 +149,13 @@ self-contained: true
 
 ![](/images/nma_network_graph_icR_allnodes_v2.png)
 
+**Forest plot and network diagram for the rational numbers network meta-analysis (RN-NMA).**
+
+Note. (A) Forest plot of all interventions versus the reference control, sorted by effect size. The effect estimates and confidence intervals incorporate both direct and indirect evidence from the network. p Scores indicate the ranking probability for each treatment, with higher scores representing a higher probability of being the most effective. (B) Network diagram of available direct comparisons. Node size is proportional to the number of participants, and connecting lines (edges) are proportional to the number of studies for each direct comparison.
+
 ### Dissemination
 
-> - Publication (in press) in journal [Review of Educational Research](https://www.aera.net/Publications/Journals/Review-of-Educational-Research):
+> - Publication in journal [Review of Educational Research](https://www.aera.net/Publications/Journals/Review-of-Educational-Research):
 
 > Jayanthi, M., Krowka, S., Schumacher, R. F., Morgan, S. B., Newman Gonchar, R., Schweer Collins, M., & Gersten, R. (2026). Exploring the relative value of combinations of instructional practices in mathematics interventions for grades K–6: An exploratory network meta analysis. Review of Educational Research. https://journals.sagepub.com/doi/10.3102/00346543261462183
 
