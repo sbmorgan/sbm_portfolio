@@ -1,5 +1,5 @@
 ---
-title: "A data analytics project in R"
+title: "A Network Meta-Analysis of Interventions for Students Struggling with Mathematics in Grades K-6"
 author: "Seth B. Morgan"
 format:
   html:
@@ -39,23 +39,18 @@ self-contained: true
 >     Conduct a systematic review of relevant research to identify high-quality, credible research to be included in the meta-analysis synthesis.
 
 > 2)  [Network meta-analysis (NMA):]{.underline}\
->     Fit a network meta-analysis to the student-level outcomes of this research to identify the instructional practice combinations most associated with improved outcomes. -> disseminate findings in journal article
+>     Fit a network meta-analysis to the student-level outcomes of this research to identify the instructional practice combinations most associated with improved outcomes. -\> disseminate findings in journal article
 
 > 3)  [Component network meta-analysis (CNMA):]{.underline}\
-      Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes. -> create tutorial for public access
+>     Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes. -\> create tutorial for public access
 
 ### Role
 
 > - Co-led project with [Instructional Research Group](https://www.inresg.org/) & Dean of the College of Education at University of Oregon.
 
-> - Individually lead the development of all R scripts: data cleaning/wrangling, indicator creation, analysis, and visualization of findings.
+> - Individually led the development of all R scripts: data cleaning/wrangling, indicator creation, analysis, and visualization of findings.
 
 > - Participated in the systematic review effort for identifying high-quality, credible research findings for inclusion in project.
-
-> - Credentials:
->   - ***Domain knowledge***: Deep K–12 and postsecondary domain knowledge built through long term design, analysis, and review of education studies.
->   - ***Trained in research evaluation standards and statistical methods***: Certified WWC reviewer for over a decade conducting systematic reviews, calculating and synthesizing effect sizes, and producing WWC products such as intervention reports and practice guides.
->   - ***Experienced statistical programmer***: Advanced Stata and R programming for data processing, analysis, and reporting.
 :::
 
 ## Methodology
@@ -154,7 +149,7 @@ self-contained: true
 
 > - Publication (in press) in journal [Review of Educational Research](https://www.aera.net/Publications/Journals/Review-of-Educational-Research):
 
-> Jayanthi, M., Krowka, S., Schumacher, R. F., Morgan, S. B., Newman-Gonchar, R., Schweer-Collins, M., & Gersten, R. (2026) *Exploring the relative value of combinations of instructional practices in mathematics interventions for grades K–6: An exploratory network meta-analysis.* Review of Educational Research. \[Article in Press\]
+> Jayanthi, M., Krowka, S., Schumacher, R. F., Morgan, S. B., Newman Gonchar, R., Schweer Collins, M., & Gersten, R. (2026). Exploring the relative value of combinations of instructional practices in mathematics interventions for grades K–6: An exploratory network meta analysis. Review of Educational Research. https://journals.sagepub.com/doi/10.3102/00346543261462183
 
 > - R script on GitHub: [NMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/NMA_metafor_allnodes_ic.R)
 :::
@@ -163,7 +158,7 @@ self-contained: true
 
 > - CNMA: Fit a component network meta-analysis to the student-level outcomes of this research to identify the individual instructional components most associated with improved outcomes.
 
-> - R script on GitHub: [CNMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/network-meta-analysis/blob/main/cNMA/cNMA_metafor_allnodes_ic.R)
+> - R script on GitHub: [CNMA_metafor_allnodes_ic.R](https://github.com/Instructional-Research-Group-IRG/CNMA/blob/main/cNMA_metafor.R)
 
 ``` r
     ### Fit an additive CNMA model to outcomes in the Whole Numbers domain   
